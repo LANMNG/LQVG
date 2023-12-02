@@ -1,1 +1,1 @@
-# LQVG
+# The official implementation of LQVG.
