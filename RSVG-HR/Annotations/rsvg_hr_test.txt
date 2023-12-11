@@ -1,0 +1,499 @@
+279083_4582370_512_32617_sport_swimming.jpg,409.0,450.0,447.0,467.0,find a swimming pool in the middle part and it is located at the top of a parking lot
+279083_4582370_512_32617_sport_swimming.jpg,497.25,870.0,543.88,921.0,search a swimming pool on the far bottom and it is on the right of a basketball court and the left of the main road
+279083_4582370_512_32617_sport_swimming.jpg,497.25,870.0,543.88,921.0,a swimming pool on the far bottom and it is located at the lower right of a pond
+434613_3773455_1024_32611_sport_swimming.jpg,969.56,36.25,989.25,75.5,a swimming pool on the upper right and it is on the top of a parking lot and a baseball field
+434613_3773455_1024_32611_sport_swimming.jpg,437.00,553.00,464.00,610.00,search a swimming pool in the middle part and it is located at the upper right of the baseball field
+434613_3773455_1024_32611_sport_swimming.jpg,724.00,400.00,767.00,434.00,find a swimming pool on the center of the right and it is on the upper left of a ground track field
+434613_3773455_1024_32611_sport_swimming.jpg,563.00,63.00,597.00,93.00,find a swimming pool on the center of the far top and it is near a red building
+418649_3679074_1024_32612_sport_swimming.jpg,322.28,529.75,361.81,572.46,a swimming pool on the center of the left and it is on the upper left of a pond and the bottom of a roundabout
+418649_3679074_1024_32612_sport_swimming.jpg,888.51,244.25,928.03,284.65,find a swimming pool on the upper right and it is located at the lower right of a parking lot
+305604_4176754_512_32616_sport_swimming.jpg,850.56,156.5,881.62,176.0,find a swimming pool on the upper right and it is on the upper right of a parking lot and the left of a black building
+408831_3944872_512_32613_sport_swimming.jpg,248.0,631.0,278.71,665.58,a swimming pool on the center of the left and it is near the white building
+391813_3712959_512_32612_sport_swimming.jpg,15.0,650.0,50.5,679.0,find a swimming pool on the center of the far left and it is on the bottom of a red building
+563335_3847933_512_32615_sport_swimming.jpg,442.0,195.5,508.43,274.15,find a swimming pool on the center of the top and it is on the right of a white building
+563335_3847933_512_32615_sport_swimming.jpg,442.0,195.5,508.43,274.15,find a swimming pool on the center of the top and it is on the bottom of a tennis court
+563335_3847933_512_32615_sport_swimming.jpg,710.12,107.0,763.66,166.38,find a swimming pool on the upper right and it is located at the top of a parking lot
+563335_3847933_512_32615_sport_swimming.jpg,320.38,628.5,352.38,681.5,search a swimming pool on the lower left and it is on the right of a large white building
+801058_3845551_512_32616_sport_swimming.jpg,383.25,259.5,420.6,296.78,search a swimming pool on the center of the top and it is located at the lower left of a parking lot
+801058_3845551_512_32616_sport_swimming.jpg,383.25,259.5,420.6,296.78,a swimming pool on the center of the top and it is on the upper right of a white building
+801058_3845551_512_32616_sport_swimming.jpg,603.00,843.00,637.00,885.00,a swimming pool on the far bottom and it is on the left of a tennis court
+697102_3945259_512_32617_sport_swimming.jpg,79.12,33.0,123.34,86.07,find a swimming pool on the upper left and it is on the left of the main road
+697102_3945259_512_32617_sport_swimming.jpg,782.25,749.0,835.75,796.81,the largest swimming pool on the lower right and it is on the lower left of a pond
+697102_3945259_512_32617_sport_swimming.jpg,79.12,33.0,123.34,86.07,search a swimming pool on the upper left and it is located at the upper right of a pond
+440765_3712808_512_32611_sport_swimming.jpg,368.38,299.0,421.44,355.46,find a swimming pool on the center of the top and it is located at the left of a large gray building
+440765_3712808_512_32611_sport_swimming.jpg,368.38,299.0,421.44,355.46,search a swimming pool on the upper left and it is on the top of a roundabout
+440765_3712808_512_32611_sport_swimming.jpg,532.00,975.0,592.00,1023.00,search a swimming pool on the center of the far bottom and it is on the lower right of a roundabout
+746903_4405511_512_32616_sport_swimming.jpg,928.38,22.0,981.75,127.0,find a swimming pool on the upper right and it is located at the right of a baseball field
+746903_4405511_512_32616_sport_swimming.jpg,928.38,22.0,981.75,127.0,a swimming pool on the upper right and it is on the top of a roundabout
+422765_3728162_512_32611_sport_swimming.jpg,638.24,780.5,731.19,872.65,find a swimming pool on the lower right and it is on the lower left of a parking lot and near the main road
+572614_4142331_512_32610_sport_basketball.jpg,888.00,81.0,960.12,195.00,search a swimming pool on the upper right and it is on the right of a white building
+526787_4246354_512_32610_sport_basketball.jpg,651.00,260.0,724.00,317.00,find a swimming pool on the upper right and it is on the lower right of a basketball court
+455577_3967485_512_32617_sport_basketball.jpg,627.00,752.0,697.00,826.00,a swimming pool on the center of the bottom and it is on the right of a baseball field
+438142_4652827_512_32616_sport_basketball.jpg,831.00,501.0,924.00,605.0,search a swimming pool on the center of the far right and it is on the lower right of a basketball court
+420490_4628221_512_32616_sport_basketball.jpg,787.00,123.0,851.00,187.00,find a swimming pool on the upper right and it is on the left of some tennis court
+420490_4628221_512_32616_sport_basketball.jpg,787.00,123.0,851.00,187.00,find a swimming pool on the far top and it is on the right of a parking lot
+402630_4627494_512_32616_sport_basketball.jpg,338.00,421.0,367.00,476.59,a swimming pool on the center of the left and it is on the right of a tennis court
+715035_4839601_512_32611_sport_tennis.jpg,637.00,342.0,691.00,417.00,search a swimming pool on the upper right and it is on the top of a parking lot
+590900_4133564_512_32610_sport_tennis.jpg,457.00,923.00,514.00,1023.00,a large swimming pool on the center of the far bottom
+584448_4196708_1024_32610_sport_tennis.jpg,201.00,80.0,263.00,123.00,find a swimming pool on the upper left and it is on the left of some tennis courts
+583853_4197364_1024_32610_sport_tennis.jpg,796.00,738.00,860.00,780.00,search a swimming pool on the lower right and it is on the bottom of a lake and a parking lot
+583360_4129957_512_32610_sport_tennis.jpg,946.0,216.0,1000.0,292.0,find a swimming pool on the upper right and it is on the upper right of a ground track field
+817069_4548250_2048_32614_sport_baseball.jpg,409.75,545.5,469.48,607.26,the largest baseball field in the middle part and it is on the right of a ground track field
+306258_4993044_2048_32617_sport_baseball.jpg,114.86,791.5,151.19,830.5,search the first baseball field from the lower left of some baseball fields that are on the lower left and it is located at the lower left of a ground track field
+587739_4461575_3072_32612_sport_baseball.jpg,286.00,487.00,327.00,529.00,find a baseball field on the center of the left and it is on the left of a ground track field and the bottom of another baseball field
+712024_5285502_2048_32611_sport_baseball.jpg,810.31,575.5,842.97,611.5,search the first baseball field from the upper left of some baseball fields that are on the center of the right
+563098_5261736_2048_32610_sport_baseball.jpg,741.25,717.5,817.41,793.65,search a baseball field on the lower right and it is on the top of a ground track field
+591497_4029465_2048_32617_sport_baseball.jpg,843.06,124.38,906.0,185.64,find a baseball field on the upper right
+417233_4979184_2048_32615_sport_baseball.jpg,766.00,706.0,819.00,749.00,find a baseball field on the lower right and it is on the top of a white building
+405360_5053456_2048_32615_sport_baseball.jpg,363.00,128.00,419.00,190.00,search a baseball field on the far top and it is on left of a river
+353772_3894195_3072_32613_sport_baseball.jpg,725.95,226.17,761.35,262.25,find the first baseball field from the upper right of some baseball fields that are on the upper right and it is on the bottom of a parking lot
+353772_3894195_3072_32613_sport_baseball.jpg,481.00,515.0,516.0,558.00,find the first baseball field from the bottom of some baseball fields that are in the middle part and it is on the upper right of a white building
+533694_3862049_2048_32617_sport_baseball.jpg,445.93,527.62,498.34,583.74,search a baseball field in the middle part and it is located at the lower left of a ground track field
+533694_3862049_2048_32617_sport_baseball.jpg,593.28,360.62,646.94,416.62,a baseball field in the middle part and it is on the top of a ground track field
+533694_3862049_2048_32617_sport_baseball.jpg,658.28,442.5,694.09,479.12,find a baseball field on the right and it is on the right of a ground track field
+533694_3862049_2048_32617_sport_baseball.jpg,658.28,442.5,694.09,479.12,search a baseball field in the middle part and it is located at the right of a ground track field
+664281_3766321_2048_32616_sport_baseball.jpg,291.72,836.12,343.56,894.38,search the first baseball field from the top of some baseball fields that are on the lower left and it is on the left of a ground track field
+461431_3755628_2048_32611_sport_baseball.jpg,557.58,559.12,634.5,636.23,the largest baseball field in the middle part and it is on the right of a ground track field and the lower right of another baseball fields
+715326_4249861_2048_32614_sport_baseball.jpg,395.00,391.00,455.00,448.00,search a baseball field on the center of the top and it is on the top of a ground track field
+235649_4836475_2048_32617_sport_baseball.jpg,528.00,286.0,585.00,344.00,find the first baseball field from the upper left of some baseball fields that are on the center of the top and it is on the right of a ground track field and the bottom of a tennis court
+235649_4836475_2048_32617_sport_baseball.jpg,377.00,522.0,437.00,582.00,find a baseball field in the middle part and it is on the left of the a tennis court
+557800_4578191_2048_32616_sport_baseball.jpg,875.0,823.5,957.17,905.66,search a baseball field on the lower right and it is located at bottom of a ground track field
+791259_3904101_3072_32615_sport_baseball.jpg,309.00,963.0,386.00,1024.00,find four adjacent baseball fields on the far bottom and they are on the right of a pond
+791259_3904101_3072_32615_sport_baseball.jpg,887.0,294.0,921.0,325.0,find the first baseball field from the upper right of some baseball fields that are on the upper right and it is on the top of the main road
+791259_3904101_3072_32615_sport_baseball.jpg,844.44,298.58,875.69,331.5,search the first baseball field from the upper left of some baseball fields that are on the upper right and it is on the bottom of a pond
+368005_4526517_2048_32615_sport_baseball.jpg,876.47,513.5,950.61,587.57,find the largest baseball field on the far right and it is located at the upper right of a ground track field
+641135_4855778_2048_32615_sport_baseball.jpg,604.28,904.0,645.19,951.25,a baseball field on the center of the far bottom
+641135_4855778_2048_32615_sport_baseball.jpg,235.8,763.25,290.81,819.75,search a baseball field on the lower left and it is on the right of a river and the bottom of a tennis court
+461470_4966780_2048_32615_sport_baseball.jpg,298.64,514.25,333.02,549.25,search the first baseball field from the lower left of some baseball fields that are on the center of the left and it is on the left of a parking lot
+209364_3898832_2048_32616_sport_baseball.jpg,461.24,55.88,516.06,108.75,search a baseball field on the center of the far top and it is located at the upper right of a ground track field
+209364_3898832_2048_32616_sport_baseball.jpg,398.49,258.12,460.8,319.25,the largest baseball field on the center of the top and it is on the bottom of a ground track field
+277631_4609696_2048_32617_sport_baseball.jpg,91.7,275.5,164.56,348.01,find a baseball field on the far left and it is on the upper right of a pond
+277631_4609696_2048_32617_sport_baseball.jpg,91.7,275.5,164.56,348.01,find a baseball field on the far left and it is on the lower right of a ground track field
+712492_3631083_3072_32614_sport_baseball.jpg,821.0,448.0,879.0,506.0,a baseball field on the center of the right and it is on the top of the main road
+300234_4746687_2048_32617_sport_baseball.jpg,573.64,752.5,645.45,823.76,search a baseball field on the center of the bottom and it is on the upper left of a ground track field
+300234_4746687_2048_32617_sport_baseball.jpg,419.00,429.00,486.00,482.00,search a baseball field in the middle part and it is on the top of a ground track field
+652217_3579112_2048_32614_sport_baseball.jpg,226.47,550.12,287.74,611.12,search a baseball field on the center of the left and it is on the left of a river
+752378_4655372_2048_32616_sport_baseball.jpg,273.66,541.25,326.19,598.5,the largest baseball field on the center of the left and it is on the right of a ground track field
+690139_4466855_2048_32617_sport_baseball.jpg,698.59,354.5,772.7,427.02,search a baseball field on the center of the right and it is located on the top of a ground track field
+690139_4466855_2048_32617_sport_baseball.jpg,547.09,693.25,611.18,755.3,search the first baseball field from the upper right of some baseball fields that are on the center of the bottom and it is located at the lower left of a ground track field
+690139_4466855_2048_32617_sport_baseball.jpg,406.83,137.25,474.72,205.12,search a baseball field on the center of the top and it is on the top of the main road
+564592_4446070_2048_32610_sport_baseball.jpg,470.98,925.5,530.84,985.36,search the second baseball field from the left of some baseball fields that are on the far bottom and it is located at the lower left of a ground track field
+664024_3681834_2048_32614_sport_baseball.jpg,975.55,455.25,1023.06,518.00,search a baseball field on the center of the far right and it is on the right of a tennis court
+774535_4549399_2048_32614_sport_baseball.jpg,127.56,853.75,175.93,902.46,a baseball field on the lower left and it is on the lower left of a pond
+454946_5203637_2048_32610_sport_baseball.jpg,340.38,479.25,381.15,519.5,search a baseball field on the center of the left and it is on the upper left of a ground track field
+250686_4351601_3072_32616_sport_baseball.jpg,445.93,724.67,484.93,762.17,search the first baseball field from the left of some baseball fields that are on the center of the bottom and it is on the right of a pond
+250686_4351601_3072_32616_sport_baseball.jpg,521.35,765.33,557.38,799.5,search the first baseball field from the lower right of some baseball fields that are on the center of the bottom and it is located at the upper right of a white building
+551999_4539231_2048_32617_sport_baseball.jpg,384.78,444.75,467.06,527.73,the largest baseball field in the middle part and it is on the bottom of a woods
+572374_4317188_2048_32612_sport_baseball.jpg,540.25,439.5,597.00,498.00,a baseball field in the middle part and it is on the right of another baseball field and left of the main road
+659899_4146099_2048_32617_sport_baseball.jpg,477.75,133.62,556.47,211.44,search a baseball field on the center of the top and it is on the upper left of a ground track field
+659899_4146099_2048_32617_sport_baseball.jpg,477.75,133.62,556.47,211.44,the largest baseball field on the center of the far top
+551165_3950359_2048_32617_sport_baseball.jpg,649.00,297.00,710.00,360.00,a baseball field on the upper left and it is on the top of a ground track field
+616407_4168926_2048_32614_sport_baseball.jpg,359.66,446.75,410.22,499.0,find a baseball field on the center of the left and it is located at the lower left of a ground track field
+448582_4603281_2048_32615_sport_baseball.jpg,524.0,440.0,581.0,498.0,find a baseball field in the middle part and it is on the lower left of a river
+725154_3707997_2048_32616_sport_baseball.jpg,609.25,236.00,670.00,292.00,search the second baseball field from the right of some baseball fields that are on the center of the top and it is located at the right of a ground track field
+327816_4644576_3072_32616_sport_baseball.jpg,405.04,18.17,428.79,41.33,find the first baseball field from the left of some baseball fields that are on the far top and it is located at the upper left of a ground track field
+327816_4644576_3072_32616_sport_baseball.jpg,470.6,8.0,508.6,46.67,search a baseball field on the far top and it is on the top of a ground track field
+327816_4644576_3072_32616_sport_baseball.jpg,507.00,36,540.00,70.00,find the first baseball field from the right of some baseball fields that are on the far top and it is on the upper right of the a ground track field
+346548_3821908_3072_32617_sport_baseball.jpg,4.75,814.25,45.61,855.34,find the largest baseball field on the lower left and it is located at the top of a ground track field and another baseball field
+346548_3821908_3072_32617_sport_baseball.jpg,12.62,881.83,42.08,910.99,find the smallest baseball field on the lower left and it is on the upper left of a ground track field
+580061_4494337_3072_32617_sport_baseball.jpg,446.52,220.83,496.92,272.62,find the largest baseball field on the center of the top and it is located at the upper left of a ground track field
+758339_3999334_2048_32616_sport_baseball.jpg,359.97,947.0,424.78,1011.64,search the first baseball field from the bottom of some baseball fields that are on the far bottom and it is on the left of a river
+370026_3914525_2048_32617_sport_baseball.jpg,860.05,598.62,924.0,663.38,search the largest baseball field on the far right and it is on the top of a white building
+239131_4604593_2048_32617_sport_baseball.jpg,447.73,494.5,481.84,528.75,search a baseball field in the middle part and it is located at the lower left of a ground track field
+247060_3835810_2048_32617_sport_baseball.jpg,243.92,237.25,312.42,304.88,find the first baseball field from the lower right of some baseball fields that are on the upper left and it is located at the lower left of a pond and the left of the main road
+414920_4595620_2048_32617_sport_baseball.jpg,693.00,431.00,755.09,488.00,search a baseball field on the center of the right and it is on the top of a ground track field
+299979_4201964_2048_32614_sport_baseball.jpg,98.38,471.0,162.38,525.5,the largest baseball field on the center of far left and it is on the bottom of the main road
+610408_4727343_2048_32615_sport_baseball.jpg,476.03,562.0,530.03,622.0,the largest baseball field in the middle part and it is on the left of a white building
+610408_4727343_2048_32615_sport_baseball.jpg,476.03,562.0,530.03,622.0,find a baseball field in the middle part and it is on the lower left of a ground track field
+393837_4912261_3072_32614_sport_baseball.jpg,159.79,173.67,214.21,228.35,find a baseball field on the upper left and it is located at the bottom of a lake
+393837_4912261_3072_32614_sport_baseball.jpg,159.79,173.67,214.21,228.35,a baseball field on the upper left and it is on the lower right of a ground track field
+600420_5335132_2048_32613_sport_baseball.jpg,905.03,807.5,956.09,863.75,find a large baseball field on the lower right and it is on the top of a white building
+361246_4348892_2048_32615_sport_baseball.jpg,515.89,420.75,551.22,457.0,search the first baseball field from the upper left of some baseball fields that are in the middle part and it is located at the upper right of a parking lot
+411655_3918196_2048_32617_sport_baseball.jpg,384.00,547.00,449.00,604.00,search a baseball field on the right and it is located at the lower left of another baseball field
+227465_4436689_2048_32617_sport_baseball.jpg,266.52,138.0,332.59,204.05,search the largest baseball field on the upper left and it is on the lower right of a ground track field
+227465_4436689_2048_32617_sport_baseball.jpg,266.52,138.0,332.59,204.05,search the largest baseball field on the upper left and it is on the top of a river
+570385_4479803_3072_32615_sport_baseball.jpg,255.92,223.83,288.52,258.17,find a baseball field on the upper left and it is on the left of a ground track field
+485536_4777851_2048_32615_sport_baseball.jpg,475.78,401.25,518.45,440.25,search the first baseball field from the upper left of some baseball fields that are in the middle part and it is located at the bottom of a river
+303564_4599095_2048_32617_sport_baseball.jpg,526.34,563.25,586.17,624.0,find the first baseball field from the upper right of some baseball fields that are in the middle part and it is located at the lower right of a lake
+307104_4997917_2048_32617_sport_baseball.jpg,301.79,526.5,353.73,576.99,find a baseball field on the center of the left and it is on the top of the main road
+397469_4023426_2048_32615_sport_baseball.jpg,294.62,283.25,343.58,332.5,search the first baseball field from the upper left of some baseball fields that are on the center of the top and it is located at bottom of the main road and a parking lot
+491221_4402524_2048_32613_sport_baseball.jpg,690.83,275.75,747.36,334.75,find a baseball field on the upper right and it is on the right of a swimming pool and the left of a river
+357535_4046902_2048_32617_sport_baseball.jpg,174.00,148.0,250.00,221.00,search a baseball field on the upper left and it is on the right of a pond and the top of a white building
+566168_5280537_512_32610_sport_basketball.jpg,688.32,258.0,738.25,308.21,a basketball court on the upper right and it is on the left of a parking lot and a building
+299637_4535811_512_32617_sport_basketball.jpg,95.81,829.0,119.94,899.0,search a basketball court on the lower left and it is located at the lower left of a swimming pool
+299637_4535811_512_32617_sport_basketball.jpg,95.81,829.0,119.94,899.0,search a basketball court on the lower left and it is on the bottom of three adjacent tennis courts
+709539_4283996_512_32616_sport_basketball.jpg,676.86,167.0,735.5,214.88,find a basketball court on the upper right and it is on the left of a tennis court
+709539_4283996_512_32616_sport_basketball.jpg,676.86,167.0,735.5,214.88,a basketball court on the far top and it is on the top of a baseball field
+700810_4298283_512_32615_sport_basketball.jpg,674.75,121.0,710.36,180.16,search a basketball court on the far top and it is located at the right of some tennis courts and the lower right of a baseball field
+700810_4298283_512_32615_sport_basketball.jpg,673.0,120.0,709.8,180.58,a basketball court on the far top and it is on the right of some tennis courts
+431092_4607624_512_32615_sport_basketball.jpg,96.69,20.0,127.38,65.0,search a basketball court on the far top and it is on the upper left of a baseball field and the left of the main road
+333029_4355384_512_32615_sport_basketball.jpg,590.69,614.0,647.25,644.0,a basketball court in the middle part and it is on the top of a gray building
+333029_4355384_512_32615_sport_basketball.jpg,468.00,473.0,501.00,544.0,search a basketball court in the middle part and it is on the upper left of another basketball court and a large gray building
+261161_4057129_512_32611_sport_basketball.jpg,505.81,293.5,585.06,420.5,search four adjacent basketball courts in the middle part and they are located at the lower left of some tennis court
+717559_4210492_512_32617_sport_basketball.jpg,120.52,568.0,179.0,619.64,a basketball court on the center of the far left and it is on the left of a swimming pool
+299158_4456336_512_32617_sport_basketball.jpg,24.5,953.0,61.12,1013.0,a basketball court on the lower left and it is on the bottom of two adjacent tennis courts
+422355_4551667_512_32612_sport_basketball.jpg,262.31,592.0,299.56,651.0,find a basketball court on the lower left and it is on the left of some tennis courts
+447400_3808876_512_32611_sport_basketball.jpg,28.81,769.5,59.62,821.0,a basketball court on the far left and it is on the bottom of the main road and the left of a white building
+447400_3808876_512_32611_sport_basketball.jpg,805.00,54.00,865.00,89.0,a basketball court on the far top and it is on the right of the main road and a white building
+490674_4528091_512_32617_sport_basketball.jpg,671.44,624.0,698.06,675.0,find a basketball court on the center of the right and it is located at the right of a parking lot
+297321_4024692_512_32611_sport_basketball.jpg,529.25,477.0,561.5,535.0,search the first basketball court from the upper right of some basketball courts that are in the middle part and it is on the lower left of a white building and the top of a baseball field
+467877_4519447_512_32617_sport_basketball.jpg,181.94,700.0,212.25,751.0,a basketball court on the lower left and it is on the lower left of a baseball field and the right of a white building
+502282_3621709_512_32611_sport_basketball.jpg,747.56,163.0,989.44,237.5,the largest basketball court on the upper right and it is on the top of a baseball field
+256367_4392349_512_32611_sport_basketball.jpg,270.0,642.0,323.39,718.37,find a basketball court on the lower left and it is on the right of a baseball field
+624013_3631573_512_32611_sport_basketball.jpg,845.25,90.0,905.9,156.65,a basketball court on the upper right and it is on the right of a large gray building and red building
+653050_4223796_512_32615_sport_basketball.jpg,238.06,707.0,281.88,785.05,search a basketball court on the lower left and it is on the right of some buildings
+699611_4585491_512_32614_sport_basketball.jpg,99.0,574.0,141.0,636.0,find a basketball court on the far left and it is on bottom of a lawn
+489114_4487983_512_32613_sport_basketball.jpg,516.12,530.0,642.94,590.0,search three adjacent basketball courts in the middle part and they are located at the lower right of a lake
+692691_3715604_512_32611_sport_basketball.jpg,907.62,218.0,964.62,250.5,search a basketball court on the upper right and it is on the right of a parking lot and a white building
+231066_3722394_512_32614_sport_basketball.jpg,896.96,175.0,955.31,232.25,a basketball court on the upper right and it is on the top of a black building and a parking lot
+698226_4322085_512_32616_sport_swimming.jpg,870.5,281.0,946.00,358.0,search two adjacent basketball courts on the upper right and they are on the top of some tennis courts
+510954_4391042_512_32613_sport_swimming.jpg,508.00,155.0,545.00,214.00,search a basketball court on the far top and it is on the top of a white building and the left of a pond
+431059_4602302_512_32615_sport_swimming.jpg,341.06,864.0,422.00,929.0,find two adjacent basketball courts on the lower left and they are on the bottom of a tennis court
+564833_3735353_512_32611_sport_tennis.jpg,209.01,503.00,250.12,561.5,search a basketball court on the center of the left and it is on the right of a tennis court
+517807_3685109_512_32616_sport_tennis.jpg,173.00,128.0,247.0,196.00,find two adjacent basketball courts on the upper left and they are on the left of a white building
+472976_4973172_512_32615_sport_tennis.jpg,612.00,429.0,653.00,491.00,find a basketball court in the middle part and it is on the left of a tennis court and the lower right of a lake
+458938_4523566_512_32617_sport_tennis.jpg,5.00,121.0,78.00,254.0,search four adjacent basketball courts on the upper left and they are on the left of a baseball field
+432991_4666826_512_32616_sport_tennis.jpg,154.0,783.0,194.0,840.0,find a basketball court on the lower left and it is on the left of some tennis courts
+427024_4664432_512_32616_sport_tennis.jpg,738.0,233.0,795.5,311.0,find two adjacent basketball courts on the upper right and they are on the left of a parking lot
+331446_5118204_512_32611_sport_tennis.jpg,629.00,845.0,716.00,913.00,search two adjacent basketball courts on the lower right and they are on the top of a tennis court
+292121_4706455_512_32617_sport_tennis.jpg,431.00,618.0,540.00,678.0,search three adjacent basketball courts in the middle part and they are on the bottom of some tennis courts
+377132_4906923_512_32616_junction_roundabout.jpg,98.5,471.0,126.38,498.93,a roundabout on the center of the far left and it is on the upper left of a parking lot
+634046_4878104_1024_32610_junction_roundabout.jpg,908.09,851.5,946.81,890.39,find a roundabout on the lower right and it is on the bottom of a river
+556294_3855919_512_32615_junction_roundabout.jpg,428.00,629.5,477.00,681.5,search a roundabout in the middle part and it is on the top of a parking lot
+556294_3855919_512_32615_junction_roundabout.jpg,444.62,889.5,492.25,938.5,a roundabout on the far bottom and it is on the bottom of a parking lot
+649599_3608809_1024_32614_junction_roundabout.jpg,355.8,511.75,423.44,579.33,search a roundabout on the center of the left and it is on the upper right of a white building
+649599_3608809_1024_32614_junction_roundabout.jpg,688.9,355.75,725.5,392.28,search a roundabout on the upper right and it is located at the right of some black buildings
+680435_4172771_512_32610_junction_roundabout.jpg,265.89,700.0,319.25,753.89,a roundabout on the lower left
+645744_3897409_1024_32614_junction_roundabout.jpg,350.4,168.75,396.19,214.31,a roundabout on the upper left and it is on the bottom of some buildings
+341449_4334928_1024_32615_junction_roundabout.jpg,481.91,38.0,520.34,75.54,find a roundabout on the center of the far top
+341449_4334928_1024_32615_junction_roundabout.jpg,614.09,307.5,638.94,331.56,find a roundabout on the center of the top and it is on the upper left of a pond
+550985_4495601_1024_32610_junction_roundabout.jpg,673.44,243.0,716.03,285.54,find a roundabout on the upper right
+579183_3650332_1024_32617_junction_roundabout.jpg,448.44,243.25,533.75,328.51,search the largest roundabout on the center of the top and it is located at the left of a lake
+730907_4567756_512_32614_junction_roundabout.jpg,927.39,28.0,1032.12,132.73,the largest roundabout on the upper right
+512589_4473780_1024_32613_junction_roundabout.jpg,637.69,14.5,677.07,54.42,a roundabout on the far top
+603288_3670455_1024_32614_junction_roundabout.jpg,334.75,785.75,437.07,888.75,search a roundabout on the center of the bottom and it is on the left of a pond
+603288_3670455_1024_32614_junction_roundabout.jpg,769.25,66.0,840.69,140.75,a roundabout on the upper right
+531187_5056001_512_32610_junction_roundabout.jpg,646.75,666.0,682.38,701.0,find a roundabout on the lower right and it is on the left of a swimming pool
+266798_4110681_1024_32612_junction_roundabout.jpg,53.07,727.25,100.75,775.18,a roundabout on the far left and it is on the bottom of a pond
+380429_4435151_512_32617_junction_roundabout.jpg,335.5,442.0,392.44,498.94,a roundabout on the center of the left and it is on the upper left of another roundabout
+274334_4106642_1024_32612_junction_roundabout.jpg,585.16,447.25,618.81,481.25,search a roundabout in the middle part and it is on the upper right of some tennis courts
+463045_4586518_512_32616_junction_roundabout.jpg,795.81,362.0,894.34,460.73,a roundabout on the far right and it is on the top of a lake
+718002_3679853_512_32614_junction_roundabout.jpg,370.62,262.0,435.45,326.65,search a roundabout on the center of the top and it is on the bottom of a swimming pool
+508547_4603608_1024_32616_junction_roundabout.jpg,627.57,261.5,670.25,303.99,search a roundabout on the upper right and it is on the left of a pond and the right of the main road
+662676_4139013_1024_32617_junction_roundabout.jpg,236.93,346.0,297.94,407.0,a roundabout on the upper left and it is on the bottom of a parking lot and the right of a white building
+265901_4387353_512_32611_junction_roundabout.jpg,320.12,329.0,448.72,457.05,the largest roundabout on the upper left and it is on the left of another roundabout
+555884_3854911_1024_32615_junction_roundabout.jpg,230.19,672.25,275.45,716.75,a roundabout on the lower left and it is on the upper right of a parking lot
+374746_4345022_1024_32615_junction_roundabout.jpg,327.3,716.0,365.34,754.0,a roundabout on the lower left and it is on the top of a white building
+374746_4345022_1024_32615_junction_roundabout.jpg,713.97,410.5,748.09,444.5,search a roundabout on the upper right and it is on the upper left of a parking lot and a white building
+374746_4345022_1024_32615_junction_roundabout.jpg,538.59,405.5,574.24,440.98,find a roundabout in the middle part and it is on the bottom of a parking lot and a white building
+486256_3554831_1024_32617_junction_roundabout.jpg,16.94,243.75,66.44,293.0,find a roundabout on the far left and it is on the top of a woods
+486256_3554831_1024_32617_junction_roundabout.jpg,243.91,222.75,292.5,271.25,search a roundabout on the upper left and it is on the upper right of a woods
+368594_3729989_512_32612_junction_roundabout.jpg,549.57,127.5,613.25,191.15,the largest roundabout on the center of the far top
+657466_4134437_1024_32617_junction_roundabout.jpg,365.81,668.0,406.92,709.04,find a roundabout on the lower left and it is located at the upper right of a parking lot
+657466_4134437_1024_32617_junction_roundabout.jpg,640.61,982.0,672.06,1013.55,find a roundabout on the far bottom and it is on the left of the woods
+624057_4096765_512_32610_junction_roundabout.jpg,190.77,342.0,245.62,396.85,a roundabout on the upper left and it is on the top of another roundabout
+358009_4779572_1024_32616_junction_roundabout.jpg,326.75,174.0,369.74,216.94,a roundabout on the upper left and it is on the top of the main road
+501090_4473098_1024_32613_junction_roundabout.jpg,817.03,874.0,857.73,914.49,find a roundabout on the lower right and it is located at the upper right of a white building
+501090_4473098_1024_32613_junction_roundabout.jpg,94.94,154.5,162.28,221.67,find a roundabout on the upper left and it is located at the bottom of a parking lot
+744617_4384757_1024_32616_junction_roundabout.jpg,279.19,585.0,332.0,637.83,find a roundabout on the center of the left and it is on the bottom of a lake
+744617_4384757_1024_32616_junction_roundabout.jpg,44.81,209.0,86.88,250.47,search a roundabout on the far left and it is located at the upper left of a lake
+531710_4235745_512_32610_junction_roundabout.jpg,659.67,961.0,717.75,1018.9,find a roundabout on the far bottom and it is located at the lower right of a tennis court
+531710_4235745_512_32610_junction_roundabout.jpg,256.12,202.0,320.51,266.11,search a roundabout on the upper left and it is located at the top of a large building
+705247_4606900_1024_32615_junction_roundabout.jpg,855.06,942.0,877.38,964.5,search a roundabout on the lower right and it is located at the right of a woods
+705247_4606900_1024_32615_junction_roundabout.jpg,345.06,281.5,390.78,327.01,find a roundabout on the upper left and it is on the lower left of a parking lot
+591016_4747480_1024_32612_junction_roundabout.jpg,452.94,431.0,502.32,480.3,search a roundabout in the middle part and it is located at the bottom of a white building
+591016_4747480_1024_32612_junction_roundabout.jpg,541.27,868.0,575.5,902.52,find a roundabout on the far bottom and it is on the lower left of a lake
+410956_3749131_1024_32611_junction_roundabout.jpg,867.72,246.0,900.97,279.25,find a roundabout on the upper right and it is located at the lower left of a white building
+406738_3724393_512_32612_junction_roundabout.jpg,653.44,43.5,700.34,90.46,find a roundabout on the far top
+406738_3724393_512_32612_junction_roundabout.jpg,44.19,819.5,111.82,887.09,the largest roundabout on the lower left and it is on the right of a white building
+345994_4308163_1024_32615_junction_roundabout.jpg,196.47,446.0,236.89,486.5,search a roundabout on the center of the left and it is located at the lower left of a parking lot and a white building
+719751_3978772_512_32617_junction_roundabout.jpg,480.28,146.0,612.38,207.0,find a roundabout on the center of the far top and it is on the upper right of a parking lot
+719751_3978772_512_32617_junction_roundabout.jpg,322.0,647.5,440.5,729.46,search a roundabout on the lower left and it is on the top of a woods
+745936_4325340_1024_32617_junction_roundabout.jpg,955.94,708.5,995.87,748.36,find a roundabout on the far right and it is located at the lower right of a lake
+745936_4325340_1024_32617_junction_roundabout.jpg,955.94,708.5,995.87,748.36,a roundabout on the lower right and it is on the right of a woods
+443649_3677862_512_32612_junction_roundabout.jpg,716.25,569.5,781.94,635.24,a roundabout on the center of the right and it is on the bottom of a lawn
+551138_4122925_1024_32617_junction_roundabout.jpg,567.77,381.0,609.25,422.59,a roundabout in the middle part and it is on the lower left of another roundabout
+612179_4227211_512_32610_junction_roundabout.jpg,345.38,617.0,377.88,656.0,find a roundabout on the lower left and it is located at the lower left of another roundabout
+570958_3721606_512_32611_junction_roundabout.jpg,457.1,422.5,518.0,483.17,the largest roundaboutin the middle part and it is on the upper right of some gray buildings
+339784_4320650_1024_32615_junction_roundabout.jpg,397.61,764.0,435.62,801.5,find a roundabout on the center of the bottom and it is located at the right of the main road
+564134_4606763_512_32616_junction_roundabout.jpg,907.25,847.0,959.11,898.91,a roundabout on the lower right
+464589_3729270_1024_32611_junction_roundabout.jpg,348.38,14.25,370.62,36.5,a roundabout on the far top
+585261_3633918_1024_32617_junction_roundabout.jpg,724.0,749.75,773.23,798.96,find a roundabout on the lower right and it is located at the lower right of a pond
+585261_3633918_1024_32617_junction_roundabout.jpg,249.11,258.25,296.19,305.22,a roundabout on the upper left and it is on the bottom of a swimming pool and a pond
+396508_3741655_1024_32612_junction_roundabout.jpg,75.95,484.5,105.56,514.05,a roundabout on the center of the far left
+396508_3741655_1024_32612_junction_roundabout.jpg,784.0,843.5,807.19,866.5,find a roundabout on the lower right and it is on the right of a tennis court
+724791_5197795_1024_32611_junction_roundabout.jpg,748.0,772.0,797.0,813.0,search a roundabout on the lower right and it is located at the lower right of another roundabout
+180835_3799193_1024_32617_junction_roundabout.jpg,334.86,490.5,403.79,559.23,a roundabout on the center of the left and it is on the upper left of a white building
+180835_3799193_1024_32617_junction_roundabout.jpg,552.53,150.5,625.17,222.53,find a roundabout on the center of the far top and it is on the bottom of a parking lot
+425410_4486748_512_32612_junction_roundabout.jpg,951.94,494.0,1017.94,559.08,search a roundabout on the center of the far right and it is located at the bottom of some black buildings
+425410_4486748_512_32612_junction_roundabout.jpg,279.38,351.0,360.88,431.99,search a roundabout on the upper left and it is located at the upper right of a white building
+634355_4877834_1024_32610_junction_roundabout.jpg,673.75,308.0,697.25,334.0,search a roundabouton the upper right and it is on the top of a river
+634355_4877834_1024_32610_junction_roundabout.jpg,599.09,581.5,637.81,620.39,find a roundabout in the middle part and it is on the bottom of a river
+634355_4877834_1024_32610_junction_roundabout.jpg,91.62,565.0,129.46,602.51,search a roundabout on the center of the far left and it is on the bottom of a river
+708170_3638707_512_32614_junction_roundabout.jpg,679.38,542.5,718.75,591.5,find a roundabout on the center of the right and it is on the bottom of a large building and between the parking lots
+708170_3638707_512_32614_junction_roundabout.jpg,341.38,396.0,395.88,436.0,find a roundabout on the center of the left and it is located at the bottom of a parking lot
+614571_3588014_1024_32614_junction_roundabout.jpg,485.69,387.75,532.15,436.5,the largest roundabout in the middle part and it is on the right of the river
+465689_3562114_512_32617_junction_roundabout.jpg,713.25,420.5,789.8,528.97,a roundabout on the center of the right
+644591_3615161_1024_32611_junction_roundabout.jpg,806.59,287.5,853.31,334.2,find a roundabout on the upper right
+644591_3615161_1024_32611_junction_roundabout.jpg,438.69,616.0,483.4,660.76,a roundabout in the middle part and it is on the lower left of a ground track field
+771443_3805387_1024_32616_junction_roundabout.jpg,224.94,499.5,265.88,540.47,find a roundabout on the center of the left and it is on the top of a white building
+771443_3805387_1024_32616_junction_roundabout.jpg,281.94,938.0,327.25,983.3,search a roundabout on the lower left and it is located at the right of a parking lot and a white building
+246979_3998506_512_32615_junction_roundabout.jpg,266.00,474.00,322.00,527.5,find a roundabout on the center of the left and it is on the left of another roundabout
+246979_3998506_512_32615_junction_roundabout.jpg,697.34,576.5,758.59,639.5,find a roundabout on the center of the right and it is on the right of another roundabout
+460421_4603151_512_32615_junction_roundabout.jpg,543.57,531.0,631.5,618.92,search a roundabout in the middle part and it is on the lower right of another roundabout
+575946_4495641_1024_32617_junction_roundabout.jpg,493.44,666.0,543.61,716.18,find a roundabout on the center of the bottom and it is near some gray buildings
+719555_3978531_1024_32617_junction_roundabout.jpg,775.69,863.75,832.09,920.23,a roundabout on the lower right and it is on the lower right of a tennis court
+689243_3734735_1024_32617_junction_roundabout.jpg,788.25,404.25,854.88,471.0,search a roundabout on the center of the right and it is on the top of a lake
+689243_3734735_1024_32617_junction_roundabout.jpg,240.12,718.5,305.31,783.68,search a roundabout on the lower left and it is on the upper left of a lake
+775093_3785570_1024_32616_junction_roundabout.jpg,857.31,518.25,912.29,573.01,search a roundabout on the far right and it is on the top of a parking lot
+530196_5350268_512_32610_junction_roundabout.jpg,171.36,644.0,224.25,696.76,search a roundabout on the center of the left
+530196_5350268_512_32610_junction_roundabout.jpg,636.5,392.0,683.82,439.05,find a roundabout on the center of the right and it is on the left of some red buildings
+709815_3696150_1024_32616_junction_roundabout.jpg,479.25,921.0,522.5,964.24,search a roundabout on the far bottom and it is on the lower right of a tennis court
+709976_3695793_512_32616_junction_roundabout.jpg,124.5,616.0,211.0,702.48,find a roundabout on the far left and it is located at the lower right of a tennis court and a swimming pool
+709976_3695793_512_32616_junction_roundabout.jpg,456.59,189.0,589.38,321.65,the largest roundabout on the center of the top
+373141_4874695_1024_32616_junction_roundabout.jpg,438.0,879.0,489.38,930.45,find the second roundabout from the left of some roundabouts that are on the far bottom and it is located at the left of the main road
+373141_4874695_1024_32616_junction_roundabout.jpg,578.89,896.0,627.03,944.02,search the second roundabout from the right of some roundabouts that are on the far bottom and it is located at the right of the main road
+491201_4875246_512_32610_junction_roundabout.jpg,283.56,618.0,314.62,649.18,search a roundabout on the center of the left
+673775_4013243_512_32611_junction_roundabout.jpg,700.5,319.5,769.62,388.0,a roundabout on the upper right
+463396_3557628_512_32617_junction_roundabout.jpg,818.12,369.0,920.93,471.8,find a roundabout the upper right and it is on the bottom of a pond
+356167_4346229_512_32615_junction_roundabout.jpg,258.06,495.0,378.37,615.0,find a roundabout on the center of the left and it is located at the upper right of a lake
+356167_4346229_512_32615_junction_roundabout.jpg,276.56,29.0,426.94,179.35,search a roundabout on the far top
+416161_4558460_512_32612_junction_roundabout.jpg,18.93,709.0,129.06,819.02,search a roundabout on the far left and it is on the lower left of a large white building
+416161_4558460_512_32612_junction_roundabout.jpg,536.01,441.0,664.38,568.86,find a roundabout in the middle part and it is on the right of a large white building
+416161_4558460_512_32612_junction_roundabout.jpg,18.93,709.0,129.06,819.02,find a roundabout on the lower left and it is located at the lower left of a white building
+725706_3724966_1024_32616_junction_roundabout.jpg,780.31,903.5,824.31,947.27,search a roundabout on the lower right and it is located at the lower right of a lake
+725706_3724966_1024_32616_junction_roundabout.jpg,55.31,870.5,107.49,922.56,a roundabout on the lower left and it is  on the lower left of a lake
+298655_4380950_512_32613_junction_roundabout.jpg,874.94,762.0,947.43,834.09,a roundabout on the lower right and it is on the lower right of a parking lot
+298655_4380950_512_32613_junction_roundabout.jpg,136.19,231.0,209.62,303.86,find a roundabout on the upper left and it is between the parking lots
+492060_4465922_1024_32613_junction_roundabout.jpg,332.4,142.0,390.0,199.56,the largest roundabout on the upper left
+491731_4941853_512_32610_junction_roundabout.jpg,764.33,311.0,816.31,363.01,find a roundabout on the upper right and it is on the right of a white building and the main road
+491731_4941853_512_32610_junction_roundabout.jpg,326.06,871.0,387.00,930.0,search a roundabout on the lower left and it is located at the bottom of a baseball field
+391109_4747127_512_32613_junction_roundabout.jpg,306.76,587.0,388.81,668.98,search a roundabout on the center of the left and it is located at the left of a white building
+391109_4747127_512_32613_junction_roundabout.jpg,508.71,386.0,603.75,480.83,find a roundabout in the middle part and it is on the top of a large white building
+385276_3710233_1024_32612_junction_roundabout.jpg,641.7,517.75,694.16,570.23,search a roundabout on the center of the right and it is located at the right of a parking lot
+385276_3710233_1024_32612_junction_roundabout.jpg,476.16,412.0,517.29,452.98,search a roundabout in the middle part and it is on the upper left of another roundabout
+436745_4614017_1024_32615_junction_roundabout.jpg,830.0,213.5,868.72,252.5,search a roundabout on the upper right and it is on the bottom of another roundabout
+436745_4614017_1024_32615_junction_roundabout.jpg,824.53,2.0,877.32,54.78,a roundabout on the far top and it is on the top of another roundabout
+436745_4614017_1024_32615_junction_roundabout.jpg,122.44,756.0,176.7,810.41,search a roundabout on the lower left and it is on the lower right of a pond
+768235_3763947_512_32616_junction_roundabout.jpg,526.12,229.5,590.62,293.98,search a roundabout on the center of the top and it is on the bottom of a pond
+768235_3763947_512_32616_junction_roundabout.jpg,416.26,856.0,485.88,925.49,search a roundabout on the center of the far bottom and it is near a woods
+516469_4391329_512_32613_junction_roundabout.jpg,481.69,186.0,531.86,236.14,find a roundabout on the center of the top
+516469_4391329_512_32613_junction_roundabout.jpg,597.31,433.0,648.3,483.83,search a roundabout on the center of the right and it is located at the upper right of a building and a parking lot
+459029_4452114_1024_32612_sport_tennis.jpg,610.01,322.0,634.94,360.58,a tennis court on the center of the top and it is on the top of a pond
+436042_4652821_1024_32616_sport_tennis.jpg,525.47,590.5,584.38,626.5,find four adjacent tennis courts in the middle part and they are on the bottom of a white building
+436042_4652821_1024_32616_sport_tennis.jpg,334.66,392.5,478.69,430.5,find the largest tennis court in the middle part and it is located at the right of a ground track field
+421407_4485221_512_32612_sport_tennis.jpg,475.75,363.0,516.56,438.0,find a tennis court in the middle part and it is located at the bottom of a pond
+724041_3985385_512_32617_sport_tennis.jpg,297.15,401.0,394.88,499.38,search two adjacent tennis courts on the upper left and they are located at the top of a ground track field
+724041_3985385_512_32617_sport_tennis.jpg,567.1,537.5,733.0,667.54,find four adjacent tennis courts on the center of the right and they are located at the right of a ground track field
+710275_3763800_512_32616_sport_tennis.jpg,546.57,496.0,630.25,584.52,find the first two adjacent tennis courts from the lower right of some tennis courts that are in the middle part and they are on the bottom of a swimming pool and the left of a parking lot
+532468_3599368_512_32615_sport_tennis.jpg,546.12,535.5,588.57,584.7,search the first tennis court from the lower right of some tennis courts that are in the middle part and it is on the lower left of a ground track field
+421523_4654612_1024_32616_sport_tennis.jpg,572.5,981.0,682.34,1019.0,the largest tennis court on the far bottom and it is on the bottom of the red buildings
+490443_4403435_512_32613_sport_tennis.jpg,183.38,744.0,217.0,814.0,search a tennis court on the lower left and it is located at the bottom of a black building
+490443_4403435_512_32613_sport_tennis.jpg,482.94,452.0,518.19,521.0,find a tennis court in the middle part and it is located at the left of a swimming pool and a white building
+690145_3955825_512_32610_sport_tennis.jpg,608.18,35.5,664.88,114.56,search three adjacent tennis courts on the far top and they are located at the upper left of a swimming pool
+649443_4605888_1024_32612_sport_tennis.jpg,237.88,355.0,333.61,450.77,the largest tennis court on the upper left and it is on the left of a white building
+706667_3699869_512_32616_sport_tennis.jpg,436.62,567.0,472.56,618.9,search the second tennis court from the left of some tennis courts that are in the middle part
+233929_3873218_512_32614_sport_tennis.jpg,582.94,525.0,606.31,573.0,find the first tennis court from the lower right of some tennis courts that are in the middle part and it is located at the right of a parking lot
+329898_4765094_512_32617_sport_tennis.jpg,60.75,586.0,190.56,740.0,search eight adjacent tennis courts on the lower left and they are located at the bottom of a baseball field
+489280_4474382_512_32613_sport_tennis.jpg,501.5,461.0,524.38,509.0,find the first tennis court from the upper left of some tennis courts that are in the middle part and it is on the right of the main road
+303583_4782898_512_32616_sport_tennis.jpg,464.06,688.0,559.08,782.11,find two adjacent tennis courts on the center of the bottom and they are on the upper right of some buildings
+716233_4839139_1024_32611_sport_tennis.jpg,452.25,676.5,469.0,712.5,search the second tennis court from the left of some tennis courts that are on the center of the bottom and it is on the lower left of the largest tennis court
+763344_4712995_512_32616_sport_tennis.jpg,661.38,543.0,681.88,591.0,find the first tennis court from the lower right of some tennis courts that are in the middle part and it is on the left of a parking lot and a baseball field
+763344_4712995_512_32616_sport_tennis.jpg,497.75,469.0,519.5,517.0,search the first tennis court from the upper left of some tennis courts that are in the middle part and it is located at the right of a lake
+305798_4817069_1024_32617_sport_tennis.jpg,409.4,560.0,469.31,613.52,three adjacent tennis courts in the middle part and they are on the right of a white building
+305798_4817069_1024_32617_sport_tennis.jpg,513.53,478.0,549.27,518.54,search two adjacent tennis courts in the middle part and they are on the bottom of a ground track field
+284914_4721435_512_32617_sport_tennis.jpg,538.94,530.0,570.69,600.0,search the first tennis court from the lower right of some tennis courts that are in the middle part and it is on the lower left of a parking lot
+284914_4721435_512_32617_sport_tennis.jpg,539.75,440.0,571.56,512.0,search the first tennis court from the upper right of some tennis courts that are in the middle part and it is located at the bottom of a large gray building
+388144_4035064_512_32615_sport_tennis.jpg,350.5,226.0,414.94,302.5,search the first two adjacent tennis courts from the upper right of some tennis courts that are on the upper left and they are on the top of a parking lot
+388144_4035064_512_32615_sport_tennis.jpg,186.0,357.0,247.98,438.73,find two adjacent tennis courts on the far left and they are on the upper left of a swimming pool
+613692_4747911_512_32616_sport_tennis.jpg,744.38,493.0,816.53,547.96,find four adjacent tennis courts on the center of the right and they are near the woods
+570076_4611750_512_32616_sport_tennis.jpg,450.12,423.0,601.38,498.0,search the first five adjacent tennis courts from the top of some tennis courts that are in the middle part and they are located at the upper right of a baseball field
+494079_4970701_1024_32610_sport_tennis.jpg,285.0,932.0,343.0,957.0,four adjacent tennis courts on the lower left and they are on the top of a baseball field
+397146_3738800_512_32611_sport_tennis.jpg,637.19,482.5,675.75,556.0,search the first tennis court from the lower right of some tennis courts that are in the middle part
+397146_3738800_512_32611_sport_tennis.jpg,431.56,400.0,468.94,473.5,search the first tennis court from the upper left of some tennis courts that are in the middle part
+397146_3738800_512_32611_sport_tennis.jpg,430.94,479.5,468.31,553.0,search the first tennis court from the lower left of some tennis courts that are in the middle part
+429316_4589785_1024_32617_sport_tennis.jpg,515.09,271.0,564.78,309.0,three adjacent tennis courts on the center of the top and they are on the lower right of a large white building
+585307_4126758_512_32617_sport_tennis.jpg,407.12,501.0,450.75,580.93,find the first tennis court from the lower left of some tennis courts that are in the middle part and it is on the right of a parking lot
+585307_4126758_512_32617_sport_tennis.jpg,512.2,418.03,536.25,495.92,search the first tennis court from the upper right of some tennis courts that are in the middle part and it is on the bottom of a baseball field
+592031_4140282_512_32610_sport_tennis.jpg,232.68,334.0,319.12,425.51,two adjacent tennis courts on the upper left
+592031_4140282_512_32610_sport_tennis.jpg,959.88,794.5,1015.68,846.48,find two adjacent tennis courts on the far right and they are located at the bottom of some black buildings
+511230_4953645_1024_32615_sport_tennis.jpg,18.97,627.5,84.69,702.5,the largest tennis court on the far left
+579690_4195317_1024_32610_sport_tennis.jpg,629.62,680.0,729.6,807.81,search the largest tennis court on the lower right and it is located at the right of the woods
+430699_4678565_1024_32616_sport_tennis.jpg,84.62,566.5,145.69,604.5,four adjacent tennis courts on the center of the far left
+660912_3997423_1024_32611_sport_tennis.jpg,595.99,946.25,640.25,990.0,find two adjacent tennis courts on the far bottom
+440802_4602586_512_32616_sport_tennis.jpg,469.88,139.0,498.44,209.0,search the first tennis court from the upper right of some tennis courts that are on the center of the top and it is on the right of a white building
+756153_3788522_1024_32616_sport_tennis.jpg,609.15,887.19,639.0,925.56,two adjacent tennis courts on the far bottom and they are on the bottom of a white building
+728131_3746995_512_32616_sport_tennis.jpg,605.38,395.5,668.88,468.0,find the first two adjacent tennis courts from the right of some tennis courts that are in the middle part and they are on the upper left of a swimming pool
+728131_3746995_512_32616_sport_tennis.jpg,486.5,362.5,583.38,436.0,find the first three adjacent tennis courts from the top of some tennis courts that are in the middle part and they are on the bottom of the woods
+550273_4181549_512_32610_sport_tennis.jpg,868.62,242.5,947.05,322.53,find two adjacent tennis courts on the upper right and they are located at the bottom of a woods
+550273_4181549_512_32610_sport_tennis.jpg,439.62,521.0,575.97,610.46,find four adjacent tennis courts in the middle part and they are on the bottom of a white building
+257603_4375906_1024_32611_sport_tennis.jpg,366.55,970.0,415.11,1020.12,two adjacent tennis courts on the far bottom
+417515_3743089_512_32611_sport_tennis.jpg,496.88,556.0,518.81,604.0,find the first tennis court from the lower left of some tennis courts that are in the middle part
+357043_3793827_512_32611_sport_tennis.jpg,450.44,404.5,631.5,491.0,search five adjacent tennis courts in the middle part and they are located at the lower right of a swimming pool
+357043_3793827_512_32611_sport_tennis.jpg,450.44,404.5,631.5,491.0,find the largest tennis court in the middle part and it is on the top of a parking lot
+357043_3793827_512_32611_sport_tennis.jpg,374.62,557.5,417.57,634.0,search a tennis court in the middle part and it is on the left of a parking lot
+378715_4713431_512_32616_sport_tennis.jpg,498.75,376.0,540.0,450.0,find the second tennis court from the left of some tennis courts that are in the middle part and it is on the top of a woods
+378715_4713431_512_32616_sport_tennis.jpg,419.75,354.0,457.94,426.0,search the first tennis court from the left of some tennis courts that are in the middle part and it is on the top of a woods
+371975_4873124_512_32616_sport_tennis.jpg,158.52,368.0,256.19,466.33,search two adjacent tennis courts on the center of the left and they are on the left of the main road
+640315_4868872_1024_32615_sport_tennis.jpg,464.0,344.5,475.25,369.0,find the first tennis court from the lower left of some tennis that are on the center of the top and it is located at the top of a baseball field
+645806_4075199_1024_32610_sport_tennis.jpg,688.31,848.75,741.44,923.75,search six adjacent tennis courts on the lower right and they are located at the bottom of a parking lot and the top of some gray buildings
+721587_3627163_512_32614_sport_tennis.jpg,720.75,112.5,748.88,186.0,search the fourth tennis court from the left of some tennis courts that are on the upper right and it is located at the bottom of a parking lot
+438524_3855046_1024_32616_sport_tennis.jpg,136.84,333.0,229.34,371.0,find the first six adjacent tennis courts from the bottom of some tennis courts that are on the upper left and they are located at the top of a woods
+617378_3868047_512_32617_sport_tennis.jpg,444.12,448.5,571.03,529.5,find four adjacent tennis courts in the middle part and they are on the upper left of another tennis court
+617378_3868047_512_32617_sport_tennis.jpg,574.75,550.5,643.92,626.02,search the first two adjacent tennis courts from the lower right of some tennis courts that are in the middle part and they are on the left of the woods
+303263_4176866_1024_32616_sport_tennis.jpg,459.74,968.5,555.06,1007.9,the largest tennis court on the far bottom and it is on the left of a white building
+724174_4134820_1024_32610_sport_tennis.jpg,113.62,451.25,194.5,490.5,search the second four adjacent tennis courts from the top of some tennis courts that are on the center of the far left and they are on the left of a ground track field
+471016_3778466_512_32614_sport_tennis.jpg,486.5,520.5,710.68,671.43,search the first four tennis courts from the bottom of some tennis courts that are in the middle part and they are located at the lower left of a parking lot
+367662_3688410_512_32612_sport_tennis.jpg,475.75,364.0,543.44,439.5,find the first two adjacent tennis courts from the upper left of some tennis courts that are in the middle part and they are located at the bottom of a white building
+343693_4698486_512_32617_sport_tennis.jpg,562.56,343.0,657.12,439.33,search the first two adjacent tennis courts from the upper right of some tennis courts that are in the middle part and they are located at the bottom of a parking lot
+454887_5018067_512_32615_sport_tennis.jpg,641.81,824.0,783.08,928.9,search four adjacent tennis courts on the lower right and they are located at the bottom of a ground track field and the left of another tennis courts
+330926_4683500_1024_32616_sport_tennis.jpg,551.78,876.5,579.75,913.0,two adjacent tennis courts on the center of the far bottom and they are on the top of a white building
+370307_3739352_512_32611_sport_tennis.jpg,940.5,377.5,990.5,448.5,a tennis court on the far right and it is on the upper right of a swimming pool and another tennis court
+658927_3644385_1024_32614_sport_tennis.jpg,360.56,415.5,428.31,455.25,four adjacent tennis courts in the middle part and they are on the left of a ground track field and the upper right of a white building
+383294_3747622_512_32611_sport_tennis.jpg,121.38,441.5,339.25,748.0,the largest tennis court on the left and it is on the left of a parking lot
+475137_4050375_1024_32615_sport_tennis.jpg,68.88,483.0,100.94,520.0,find two adjacent tennis courts on the center of the far left
+546982_4178266_512_32610_sport_tennis.jpg,752.38,152.5,847.49,228.01,find three adjacent tennis courts on the upper right
+670717_3617831_512_32614_sport_tennis.jpg,581.88,424.0,615.12,497.5,search the first tennis court from the upper right of some tennis courts that are in the middle part and it is on the top of a parking lot
+211308_4740396_512_32617_sport_tennis.jpg,567.87,519.0,696.31,602.0,find four adjacent tennis courts in the middle part and they are located at the bottom of a white building
+661377_4136179_512_32617_sport_tennis.jpg,462.0,473.5,664.5,567.5,find six adjacent tennis courts in the middle part and they are on the bottom of a baseball field
+661377_4136179_512_32617_sport_tennis.jpg,299.01,341.5,462.88,523.28,find six adjacent tennis courts on the center of the left and they are on the left of a baseball field and the right of a woods
+467883_4476502_1024_32614_sport_tennis.jpg,640.06,756.5,673.22,795.5,find two adjacent tennis courts on the lower right and they are located at the upper left of a swimming pool
+498314_4401204_512_32613_sport_tennis.jpg,188.19,271.0,209.94,319.0,search the second tennis court from the left of some tennis courts that are on the upper left and it is located at the top of a ground track field
+498314_4401204_512_32613_sport_tennis.jpg,224.5,271.0,246.19,319.0,search the third tennis court from the right of some tennis courts that are on the upper left and it is on the top of a ground track field
+242826_4379558_512_32611_sport_tennis.jpg,155.35,618.0,208.66,696.87,a tennis court on the lower left and it is on the upper left of a river
+542116_4651561_1024_32616_sport_tennis.jpg,791.88,285.0,826.12,352.5,four adjacent tennis courts on the upper right and they are on the upper right of a gray building
+654636_3639311_1024_32614_sport_tennis.jpg,430.06,445.5,449.0,483.0,search the second tennis court from the left of some tennis courts that are in the middle part and it is located at the bottom of a gray building
+589733_4137115_512_32610_sport_tennis.jpg,502.88,712.5,525.12,759.5,search the first tennis court from the lower left of some tennis courts that are in the middle part and it is located at the top of a white building
+413604_5120602_512_32612_sport_tennis.jpg,355.6,357.0,388.00,414.00,find the second tennis court from the left of some tennis courts that are on the upper left and it is on the upper left of a white building
+413604_5120602_512_32612_sport_tennis.jpg,633.54,625.0,709.38,706.92,two adjacent tennis courts on the far bottom on the lower right and they are on the bottom of a white building
+443878_3777256_512_32611_sport_tennis.jpg,503.62,251.0,651.06,327.0,find four adjacent tennis courts on the center of the top and they are on the top of the main road
+443878_3777256_512_32611_sport_tennis.jpg,183.62,642.0,262.25,722.0,find two adjacent tennis courts on the lower left and they are located at the left of a parking lot
+425246_4635293_512_32616_sport_tennis.jpg,688.19,301.0,721.19,448.0,two adjacent tennis courts on the upper right and they are on the right of a white building
+470288_3956321_1024_32617_sport_tennis.jpg,792.88,206.25,830.28,246.0,find two adjacent tennis courts on the upper right and they are bottom of a parking lot
+541481_4337211_512_32616_sport_tennis.jpg,354.0,543.0,376.5,591.0,find the first tennis court from the lower left of some tennis courts that are in the middle part and it is located at the right of a white building
+719297_3632997_512_32614_sport_tennis.jpg,158.67,310.0,368.62,475.08,search six adjacent tennis courts on the upper left and they are located at the right of a parking lot
+431283_4116798_512_32614_sport_tennis.jpg,476.0,496.0,504.0,557.0,find the first tennis court from the lower right of some tennis courts that are in the middle part and it is on the upper right of a white building
+431283_4116798_512_32614_sport_tennis.jpg,411.81,410.0,450.94,484.5,find the first tennis court from the upper left of some tennis courts that are in the middle part
+442235_4645665_512_32616_sport_tennis.jpg,627.62,466.0,747.25,537.0,four adjacent tennis courts on the center of the right and they are on the left of a river
+736599_3783923_1024_32616_sport_tennis.jpg,912.25,216.5,1008.38,251.5,find six adjacent tennis courts on the upper right and they are on the right of a white building
+357132_3884783_512_32613_sport_tennis.jpg,385.38,436.0,421.62,509.0,find the first tennis court from the upper left of some tennis courts that are in the middle part
+357132_3884783_512_32613_sport_tennis.jpg,361.38,668.0,398.25,741.5,search the first tennis court from the lower left of some tennis courts that are in the middle part and it is on the top of a parking lot
+407746_3687701_512_32612_sport_tennis.jpg,491.0,494.0,513.31,541.5,find the first tennis court from the left of some tennis courts that are in the middle part and it is located at the right of a ground track field
+407746_3687701_512_32612_sport_tennis.jpg,636.88,414.5,659.19,462.0,search the first tennis court from the upper right of some tennis courts that are in the middle part and it is on the bottom of a large gray building
+407746_3687701_512_32612_sport_tennis.jpg,674.12,493.0,696.44,540.5,search the first tennis court from the lower right of some tennis courts that are in the middle part and it is located at the left of a parking lot
+667642_3788516_512_32616_sport_tennis.jpg,476.25,516.0,580.62,604.0,search the first three adjacent tennis courts from the lower right of some tennis courts that are in the middle part and they are on right of a ground track field
+277408_4613185_1024_32617_sport_tennis.jpg,191.66,30.0,231.72,141.0,the largest tennis court on the upper left and it is on the left of a ground track field
+520609_3651647_512_32611_sport_tennis.jpg,396.31,369.5,469.5,439.5,search the first two adjacent tennis courts from the upper left of some tennis courts that are in the middle part and they are located at the right of a parking lot
+463447_4985287_512_32615_sport_tennis.jpg,157.01,155.0,228.19,226.44,find a tennis court on the upper left and it is on the left of a gray building
+377169_4328646_512_32615_sport_tennis.jpg,358.0,513.0,417.0,577.0,two adjacent tennis courts on the center of the left and they are on the upper left of a white building
+604283_4123676_1024_32610_sport_tennis.jpg,758.69,425.25,806.5,500.0,the largest tennis court on the upper right and it is on the bottom of a ground track field
+603960_4586099_512_32616_sport_tennis.jpg,530.88,426.0,552.62,476.0,search the first tennis court from the upper right of some tennis courts that are in the middle part and it is located at the top of a parking lot
+555762_3730651_512_32611_sport_tennis.jpg,13.38,294.0,95.2,377.02,search two adjacent tennis courts on the upper left and they are located at the left of the main road
+436137_3714768_512_32611_sport_tennis.jpg,593.94,429.0,616.19,477.0,find the first tennis court from the upper right of some tennis courts that are in the middle part
+252008_3636842_1024_32617_sport_tennis.jpg,665.28,141.75,711.31,190.01,two adjacent tennis courts on the upper right and they are on the lower left of a white building
+400744_3707677_512_32612_sport_tennis.jpg,100.69,682.0,230.88,821.0,search eight adjacent tennis courts on the lower left and they are on the bottom of a river
+280419_3757055_512_32617_sport_tennis.jpg,71.75,516.5,199.67,599.5,find four adjacent tennis courts on the center of the far left and they are located at the top of a parking lot
+433357_4666702_1024_32616_sport_tennis.jpg,173.91,207.5,211.38,244.5,search two adjacent tennis courts on the upper left and they are located at the top of a white building
+513785_3921505_512_32617_sport_tennis.jpg,116.06,306.0,174.19,380.5,two adjacent tennis courts on the upper left and they are on the left of the woods
+641788_4049789_512_32617_sport_tennis.jpg,294.75,825.5,454.44,1005.17,the largest tennis court on the far bottom
+584719_4130712_1024_32610_sport_tennis.jpg,566.38,627.25,684.12,665.75,find seven adjacent tennis courts on the center of the right and they are on the top of a baseball field
+722684_3698775_5120_32616_leisure_track.jpg,699.49,389.8,736.71,417.58,search a ground track field on the center of the right and it is located at the upper right of a white building
+222365_4769813_3072_32613_leisure_track.jpg,330.88,403.33,360.77,460.5,a ground track field on the center of the left and it is on the right of a white building
+188645_3722525_5120_32614_leisure_track.jpg,744.34,451.85,763.51,493.45,search a ground track field on the center of the right and it is located at the right of a building
+492200_4382658_3072_32613_leisure_track.jpg,880.82,92.17,904.21,148.67,a ground track field on the upper right and it is on the left of a baseball field
+755085_4412041_3072_32616_leisure_track.jpg,342.0,688.0,369.25,746.83,search a ground track field on the lower left and it is on the top of a baseball field
+755085_4412041_3072_32616_leisure_track.jpg,342.0,688.0,369.25,746.83,search a ground track field on the lower left and it is on the right of a parking lot
+455070_4971355_2048_32615_leisure_track.jpg,106.43,956.25,194.36,994.41,search a ground track field on the far bottom and it is located at the right of a gray building
+455070_4971355_2048_32615_leisure_track.jpg,106.43,956.25,194.36,994.41,search a ground track field on the lower left and it is on the bottom of some tennis courts
+192611_4083869_2048_32611_leisure_track.jpg,435.44,356.75,523.51,410.88,a ground track field in the middle part and it is on the bottom of a baseball field
+192611_4083869_2048_32611_leisure_track.jpg,537.54,811.0,589.12,906.11,search a ground track field on the center of the far bottom and it is located at the bottom of some white buildings
+192611_4083869_2048_32611_leisure_track.jpg,537.54,811.0,589.12,906.11,find a ground track field on the far bottom and it is located at the right of a baseball field
+323347_4464812_3072_32617_leisure_track.jpg,567.32,404.17,697.26,500.5,the largest ground track field in the middle part and it is on the left of the main road
+323347_4464812_3072_32617_leisure_track.jpg,271.99,582.33,323.63,648.99,search a ground track field on the center of the left and it is located at the left of the main road and the left of a white building
+778028_4444462_2048_32616_leisure_track.jpg,124.42,679.5,305.94,807.25,the largest ground track field on the lower left and it is on the bottom of a woods
+778028_4444462_2048_32616_leisure_track.jpg,807.22,3.5,849.91,91.25,find a ground track field on the far top and it is located at left of a baseball field
+778028_4444462_2048_32616_leisure_track.jpg,807.22,3.5,849.91,91.25,find a ground track field on the upper right and it is located at left of a baseball field
+455654_4584608_5120_32616_leisure_track.jpg,44.4,522.4,93.89,610.0,search a ground track field on the far left and it is located at the upper left of a pond
+455654_4584608_5120_32616_leisure_track.jpg,44.4,522.4,93.89,610.0,a ground track field on the center of the far left
+600096_3634980_3072_32617_leisure_track.jpg,832.5,177.25,894.54,217.59,search a ground track field on the upper right and it is located at the top of a baseball field
+356005_5092580_2048_32615_leisure_track.jpg,378.36,750.0,416.05,841.0,a ground track field on the lower left and it is on the bottom of a lake
+362052_4314654_3072_32615_leisure_track.jpg,162.83,834.0,226.51,866.0,a ground track field on the lower left and it is on the lower right of a white building
+412648_3948537_2048_32613_leisure_track.jpg,579.0,157.0,669.77,216.45,a ground track field on the center of the top and it is on the bottom of a white building
+412648_3948537_2048_32613_leisure_track.jpg,306.41,742.5,351.02,834.25,search a ground track field on the lower left and it is on the upper right of some baseball fields
+412648_3948537_2048_32613_leisure_track.jpg,782.67,447.62,811.36,524.75,search a ground track field on the center of the right and it is located at the bottom of a white building
+248053_3990038_2048_32615_leisure_track.jpg,650.3,874.0,693.46,964.0,the largest ground track field on the far bottom and it is on the right of a white building
+291125_4086221_3072_32616_leisure_track.jpg,744.1,21.33,800.94,46.67,the largest ground track field on the far top and it is on the right of a gray building
+321044_4688607_2048_32617_leisure_track.jpg,195.78,309.0,283.81,349.5,find a ground track field on the upper left and it is located at the bottom of a baseball field and a white building
+763321_4398032_3072_32616_leisure_track.jpg,29.36,706.17,61.9,766.34,search a ground track field on the lower left and it is located at the left of a white building
+451430_3920088_2048_32617_leisure_track.jpg,503.09,656.5,580.66,754.23,a ground track field on the center of the bottom and it is on the lower left of a baseball field
+451430_3920088_2048_32617_leisure_track.jpg,407.23,411.75,474.53,508.28,search a ground track field in the middle part and it is located at the right of a baseball field
+451430_3920088_2048_32617_leisure_track.jpg,407.23,411.75,474.53,508.28,search a ground track field in the middle part and it is on the right of a white building
+454910_5018118_1024_32615_sport_tennis.jpg,500.00,531.00,612.00,705.00,find a ground track field in the middle part and it is on the top of a tennis court
+288896_4704824_512_32617_sport_tennis.jpg,661.25,255.0,832.31,618.0,search a ground track field on the center of the right and it is on the right of a tennis court
+567224_4287959_1024_32614_sport_tennis.jpg,424.5,488.0,509.00,664.00,find a ground track field in the middle part and it is on the left of a tennis court
+595405_4093936_1024_32610_sport_tennis.jpg,842.76,554.0,920.56,639.75,a ground track field on the lower right and it is on the top of a baseball field
+547955_4237206_1024_32610_sport_tennis.jpg,138.03,421.0,250.00,598.08,find a ground track field on the center of the far left and it is on the upper right of a tennis court
+665222_4555232_1024_32616_sport_tennis.jpg,780.12,449.0,873.05,630.02,search a ground track field on the center of the far right
+569409_4400471_1024_32610_sport_tennis.jpg,284.75,236.0,463.44,318.0,a ground track field on the center of the top and it is on the top of some white buildings
+680824_3661744_1024_32614_sport_tennis.jpg,162.05,738.05,330.14,809.00,search a ground track field on the lower left and it is on the upper left of some baseball fields
+660244_5228448_1024_32611_sport_tennis.jpg,802.00,667.0,964.00,819.07,search a ground track field on the lower right and it is on the right of the main road
+343516_4305982_1024_32615_junction_roundabout.jpg,19.09,283.00,101.04,462.05,search a ground track field on the far left and it is on the top of a gray building
+742066_4255977_1024_32614_junction_roundabout.jpg,755.07,77.0,935.00,163.08,search a ground track field on the upper right and it is on the right of some tennis courts
+370049_4747847_2048_32616_sport_baseball.jpg,317.06,411.0,360.00,502.04,find a ground track field on the center of the left and it is on the upper right of a baseball field
+528241_4255086_2048_32610_sport_baseball.jpg,273.06,732.0,360.07,784.08,find a ground track field on the lower left and it is on the bottom of a baseball field
+507822_3960369_2048_32616_sport_baseball.jpg,331.06,447.08,413.07,495.08,search a ground track field on the center of the left and it is on the upper right of a black building
+352037_4364677_2048_32611_sport_baseball.jpg,521.01,533.0,562.00,623.25,search a ground track field in the middle part and it is on the bottom of a baseball field
+388610_3809782_2048_32614_sport_baseball.jpg,766.09,46.05,857.00,86.07,find a ground track field on the far top and it is on the right of a baseball field
+487870_4999548_2048_32615_sport_baseball.jpg,661.00,111.05,756.00,153.00,search a ground track field on the upper right and it is on the top of a gray building and a tennis court
+439208_4006530_3072_32617_sport_baseball.jpg,218.04,112.03,258.00,172.00,search a ground track field on the upper left and it is on the bottom of a parking lot
+579087_4195868_2048_32610_sport_baseball.jpg,671.00,628.25,737.00,711.00,search a ground track field on the lower right and it is on the lower right of a baseball field
+460521_3782556_3072_32611_man_made_storage_tank.jpg,534.35,965.5,559.94,991.09,the largest storage tank on the center of the far bottom and it is on the lower left of another small storage tank
+441783_4346883_1024_32617_man_made_storage_tank.jpg,313.75,762.0,354.61,802.84,find a white storage tank on the lower left and it is located at the left of another storage tank
+435706_3716637_2048_32611_man_made_storage_tank.jpg,957.77,558.12,992.3,592.65,the largest white storage tank on the center of the far right and it is on the lower right of another small storage tank
+435706_3716637_2048_32611_man_made_storage_tank.jpg,263.25,431.0,286.09,453.87,search a white storage tank on the center of the left and it is located at the lower right of a ground track field and the main road
+383196_4015843_1024_32615_man_made_storage_tank.jpg,475.75,545.0,497.0,563.61,the largest storage tank in the middle part and it is on the lower right of a white building
+345466_3794986_2048_32611_man_made_storage_tank.jpg,990.7,243.5,1022.02,274.85,the largest storage tank on the far right
+432216_3715170_3072_32611_man_made_storage_tank.jpg,535.01,999.58,557.7,1022.23,find a storage tank on the center of the far bottom and it is on the bottom of some white buildings
+432216_3715170_3072_32611_man_made_storage_tank.jpg,274.65,455.58,295.18,476.07,find a white storage tank on the center of the left and it is on the right of the main road and another storage tank
+522037_5408799_2048_32610_man_made_storage_tank.jpg,361.72,492.25,422.08,552.59,the largest white storage tank on the center of the left and it is on the lower right of two storage tanks
+522037_5408799_2048_32610_man_made_storage_tank.jpg,202.99,287.5,235.73,320.22,find a white storage tank on the upper left and it is located at the right of another storage tank
+405391_3982059_1024_32613_man_made_storage_tank.jpg,255.00,143.5,286.01,173.5,find a storage tank on the upper left and it is located at the left of the main road
+227955_4003525_1024_32615_man_made_storage_tank.jpg,539.22,972.0,579.03,1013.02,a white storage tank on the center of the far bottom and it is on the left of another storage tank
+227955_4003525_1024_32615_man_made_storage_tank.jpg,948.00,435.0,992.03,476.02,search a white storage tank on the center of the far right and it is on the top of another storage tank
+232593_4301144_3072_32616_man_made_storage_tank.jpg,119.0,840.0,141.0,859.0,find a storage tank on the lower left and it is on the far bottom of some storage tanks
+250914_3816918_1024_32611_man_made_storage_tank.jpg,348.97,330.5,378.75,360.23,a storage tank on the upper left
+282229_4291271_1024_32611_man_made_storage_tank.jpg,525.91,139.0,559.86,172.95,find the largest gray storage tank on the far top
+292385_4611081_1024_32617_man_made_storage_tank.jpg,381.64,237.0,464.16,319.47,the largest storage tank on the center of the top
+296088_4617511_1024_32617_man_made_storage_tank.jpg,897.66,961.0,947.99,1011.02,a storage tank on the far bottom and it is on the right of another white storage tank
+332520_3932944_1024_32617_man_made_storage_tank.jpg,555.0,227.0,582.0,249.0,the largest white storage tank on the center of the top and it is on the bottom of a woods
+340521_3895912_3072_32613_man_made_storage_tank.jpg,875.76,114.67,892.68,131.5,find a storage tank on the upper right and it is on the top of some buildings
+379435_4310481_3072_32615_man_made_storage_tank.jpg,768.97,812.17,787.42,833.33,a storage tank on the lower right and it is on the right of a white building
+384413_4113086_1024_32611_man_made_storage_tank.jpg,432.91,429.0,453.16,449.25,the largest gray storage tank in the middle part
+425801_3712830_1024_32611_man_made_storage_tank.jpg,313.47,622.0,370.51,678.78,the largest gray storage tank on the center of the left
+439711_4534217_1024_32611_man_made_storage_tank.jpg,683.75,662.5,721.93,701.0,find a white storage tank on the lower right and it is on the lower right of a lawn
+451490_4994363_1024_32616_man_made_storage_tank.jpg,34.03,787.0,94.24,846.99,the largest gray storage tank on the lower left and it is on the bottom of a white building and the left of a parking lot
+459087_3761817_1024_32611_man_made_storage_tank.jpg,247.46,451.5,293.16,497.21,the largest white storage tank on the center of the left and it is on the right of the main road
+459657_3761271_1024_32611_man_made_storage_tank.jpg,93.47,809.5,110.05,825.97,a white storage tank on the lower left and it is on the bottom of the main road
+460688_3781187_1024_32611_man_made_storage_tank.jpg,412.06,503.5,488.83,580.26,the largest white storage tank in the middle part and it is on the lower left of another small storage tank
+494606_3832737_1024_32616_man_made_storage_tank.jpg,489.97,179.75,537.31,227.0,a storage tank on the center of the far top and it is on the top of some white storage tanks
+496476_4957644_2048_32615_man_made_storage_tank.jpg,88.00,587.25,131.00,630.00,search the largest white storage tank on the center of the far left and it is on the top of another small storage tank
+519047_3857335_1024_32611_man_made_storage_tank.jpg,324.44,588.5,352.53,616.53,find a white storage tank on the center of the left
+519047_3857335_1024_32611_man_made_storage_tank.jpg,681.00,165.00,706.00,190.00,find a white storage tank on the upper right and it is on the left of a white building
+542098_5137549_2048_32613_man_made_storage_tank.jpg,543.07,314.25,574.07,350.0,the largest white storage tank on the center of the top and it is on the top of the main road
+547196_4497996_2048_32617_man_made_storage_tank.jpg,499.78,681.25,521.9,703.37,find the first storage tank from the left of some storage tanks that are on the center of the bottom and it is located at the top of a river
+568653_5258235_2048_32610_man_made_storage_tank.jpg,196.05,167.25,224.84,196.04,search a white storage tank on the upper left and it is on the upper left of a lake
+574711_4287861_1024_32610_man_made_storage_tank.jpg,638.94,548.0,669.88,578.94,a white storage tank on the center of the right and it is on the left of a lake
+574711_4287861_1024_32610_man_made_storage_tank.jpg,544.04,881.0,573.00,909.04,find a white storage tank on the center of the far bottom and it is on the right of a white building
+585202_4602045_1024_32612_man_made_storage_tank.jpg,452.0,462.0,501.0,498.0,the largest white storage tank in the middle part and it is on the right of a small storage tank
+595006_3642002_1024_32617_man_made_storage_tank.jpg,626.94,384.75,668.12,425.75,find the first storage tank from the lower right of some storage tanks that are in the middle part
+602689_4168237_1024_32610_man_made_storage_tank.jpg,300.69,549.5,351.93,600.8,a gray storage tank on the center of the left and it is on the left of the woods
+672841_4768759_2048_32617_man_made_storage_tank.jpg,654.12,189.0,677.83,212.76,find a white storage tank on the upper right and it is in the woods
+687722_4185507_1024_32614_man_made_storage_tank.jpg,102.81,72.25,163.19,132.57,the largest white storage tank on the far top and it is on the upper left of another white storage tank
+703242_3963059_1024_32610_man_made_storage_tank.jpg,214.25,179.5,245.38,210.0,a white storage tank on the upper left and it is on the upper left of another white storage tank
+724084_4053056_1024_32611_man_made_storage_tank.jpg,487.68,532.0,529.06,573.45,the largest storage tank in the middle part
+741636_3952618_1024_32610_man_made_storage_tank.jpg,3.19,197.0,32.94,226.75,the largest storage tank on the far left and it is on the top of the main road
+751604_4304121_1024_32615_man_made_storage_tank.jpg,389.19,43.0,430.98,84.98,a storage tank on the far top and it is on the top of some storage tanks
+578715_4203670_1024_32610_sport_swimming.jpg,625.08,865.5,656.04,894.03,search a storage tank on the center of the far bottom
+317200_4027669_512_32611_sport_basketball.jpg,682.0,444.0,703.19,468.5,search a white storage tank on the center of the right and it is on the upper left of a white building and the bottom of the woods
+599954_3622804_1024_32617_junction_roundabout.jpg,730.06,220.05,785.00,277.00,find a white storage tank on the upper right
+698579_4512216_512_32614_junction_roundabout.jpg,782.00,480.0,854.04,550.00,search a storage tank on the center of the right and it is on the bottom of a black building
