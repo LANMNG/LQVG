@@ -1,0 +1,4 @@
+# ninja log v5
+1	8060	1691421040718911115	/data/users/lanmeng/ReferFormer/models/ops/build/temp.linux-x86_64-3.7/data/users/lanmeng/ReferFormer/models/ops/src/cpu/ms_deform_attn_cpu.o	21d7c7d756fda8eb
+1	21671	1691421054318852576	/data/users/lanmeng/ReferFormer/models/ops/build/temp.linux-x86_64-3.7/data/users/lanmeng/ReferFormer/models/ops/src/cuda/ms_deform_attn_cuda.o	3706c49b26282512
+0	36882	1691421069522787148	/data/users/lanmeng/ReferFormer/models/ops/build/temp.linux-x86_64-3.7/data/users/lanmeng/ReferFormer/models/ops/src/vision.o	48c23d9108e33f7a
