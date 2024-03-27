@@ -1,7 +1,3 @@
-"""
-ReferFormer model class.
-Modified from DETR (https://github.com/facebookresearch/detr)
-"""
 import torch
 import torch.nn.functional as F
 from torch import nn
@@ -35,25 +31,12 @@ def _get_clones(module, N):
 os.environ["TOKENIZERS_PARALLELISM"] = "false"  # this disables a huggingface tokenizer warning (printed every epoch)
 
 
-class ReferFormer(nn.Module):
-    """ This is the ReferFormer module that performs referring video object detection """
+class LQVG(nn.Module):
 
     def __init__(self, backbone, transformer, num_classes, num_queries, num_feature_levels,
                  num_frames, aux_loss=False, with_box_refine=False, two_stage=False,
                  freeze_text_encoder=False):
-        """ Initializes the model.
-        Parameters:
-            backbone: torch module of the backbone to be used. See backbone.py
-            transformer: torch module of the transformer architecture. See transformer.py
-            num_classes: number of object classes
-            num_queries: number of object queries, ie detection slot. This is the maximal number of objects
-                         ReferFormer can detect in a video. For ytvos, we recommend 5 queries for each frame.
-            num_frames:  number of clip frames
-            mask_dim: dynamic conv inter layer channel number.
-            dim_feedforward: vision-language fusion module ffn channel number.
-            dynamic_mask_channels: the mask feature output channel number.
-            aux_loss: True if auxiliary decoding losses (loss at each decoder layer) are to be used.
-        """
+
         super().__init__()
         self.num_queries = num_queries
         self.transformer = transformer
@@ -63,13 +46,8 @@ class ReferFormer(nn.Module):
         self.bbox_embed = MLP(hidden_dim, hidden_dim, 4, 3)
         self.num_feature_levels = num_feature_levels
 
-        # Build Transformer
-        # NOTE: different deformable detr, the query_embed out channels is
-        # hidden_dim instead of hidden_dim * 2
-        # This is because, the input to the decoder is text embedding feature
         self.query_embed = nn.Embedding(num_queries, hidden_dim)
 
-        # follow deformable-detr, we use the last three stages of backbone
         if num_feature_levels > 1:
             num_backbone_outs = len(backbone.strides[-3:])
             input_proj_list = []
@@ -94,7 +72,6 @@ class ReferFormer(nn.Module):
                 )])
 
         self.num_frames = num_frames
-        # self.mask_dim = mask_dim
         self.backbone = backbone
         self.aux_loss = aux_loss
         self.with_box_refine = with_box_refine
@@ -144,24 +121,7 @@ class ReferFormer(nn.Module):
         self.poolout_module = RobertaPoolout(d_model=hidden_dim)
 
     def forward(self, samples: NestedTensor, captions, targets):
-        """ The forward expects a NestedTensor, which consists of:
-               - samples.tensors: image sequences, of shape [num_frames x 3 x H x W]
-               - samples.mask: a binary mask of shape [num_frames x H x W], containing 1 on padded pixels
-               - captions: list[str]
-               - targets:  list[dict]
 
-            It returns a dict with the following elements:
-               - "pred_masks": Shape = [batch_size x num_queries x out_h x out_w]
-
-               - "pred_logits": the classification logits (including no-object) for all queries.
-                                Shape= [batch_size x num_queries x num_classes]
-               - "pred_boxes": The normalized boxes coordinates for all queries, represented as
-                               (center_x, center_y, height, width). These values are normalized in [0, 1],
-                               relative to the size of each individual image (disregarding possible padding).
-                               See PostProcess for information on how to retrieve the unnormalized bounding box.
-               - "aux_outputs": Optional, only returned when auxilary losses are activated. It is a list of
-                                dictionnaries containing the two above keys for each decoder layer.
-        """
         # Backbone
         if not isinstance(samples, NestedTensor):
             samples = nested_tensor_from_videos_list(samples)
@@ -173,7 +133,6 @@ class ReferFormer(nn.Module):
         b = len(captions)
         t = pos[0].shape[0] // b
 
-        # For A2D-Sentences and JHMDB-Sentencs dataset, only one frame is annotated for a clip
         if 'valid_indices' in targets[0]:
             valid_indices = torch.tensor([i * t + target['valid_indices'] for i, target in enumerate(targets)]).to(
                 pos[0].device)
@@ -186,7 +145,6 @@ class ReferFormer(nn.Module):
             # t: num_frames -> 1
             t = 1
 
-        # text_features, text_sentence_features = self.forward_text(captions, device=pos[0].device)
         text_features = self.forward_text(captions, device=pos[0].device)
 
         # prepare vision and text features for transformer
@@ -216,11 +174,11 @@ class ReferFormer(nn.Module):
                                                          pos=pos_l,
                                                          query_pos=None)
 
-            # src_proj_l = self.fusion_module(tgt=src_proj_l,
-            #                                 memory=text_word_initial_features,
-            #                                 memory_key_padding_mask=text_word_masks,
-            #                                 pos=text_pos,
-            #                                 query_pos=None)
+            src_proj_l = self.fusion_module(tgt=src_proj_l,
+                                            memory=text_word_initial_features,
+                                            memory_key_padding_mask=text_word_masks,
+                                            pos=text_pos,
+                                            query_pos=None)
             src_proj_l = rearrange(src_proj_l, '(t h w) b c -> (b t) c h w', t=t, h=h, w=w)
             mask = rearrange(mask, 'b (t h w) -> (b t) h w', t=t, h=h, w=w)
             pos_l = rearrange(pos_l, '(t h w) b c -> (b t) c h w', t=t, h=h, w=w)
@@ -252,12 +210,12 @@ class ReferFormer(nn.Module):
                                                              memory_key_padding_mask=mask,
                                                              pos=pos_l,
                                                              query_pos=None)
-                # src = self.fusion_module(tgt=src,
-                #                          memory=text_word_initial_features,
-                #                          memory_key_padding_mask=text_word_masks,
-                #                          pos=text_pos,
-                #                          query_pos=None
-                #                          )
+                src = self.fusion_module(tgt=src,
+                                         memory=text_word_initial_features,
+                                         memory_key_padding_mask=text_word_masks,
+                                         pos=text_pos,
+                                         query_pos=None
+                                         )
                 src = rearrange(src, '(t h w) b c -> (b t) c h w', t=t, h=h, w=w)
                 mask = rearrange(mask, 'b (t h w) -> (b t) h w', t=t, h=h, w=w)
                 pos_l = rearrange(pos_l, '(t h w) b c -> (b t) c h w', t=t, h=h, w=w)
@@ -274,10 +232,7 @@ class ReferFormer(nn.Module):
         text_embed = repeat(text_sentence_features, 'b c -> b t q c', t=t, q=self.num_queries)
         hs, memory, init_reference, inter_references, enc_outputs_class, enc_outputs_coord_unact, inter_samples = \
             self.transformer(srcs, text_embed, masks, poses, query_embeds)
-        # hs: [l, batch_size*time, num_queries_per_frame, c]
-        # memory: list[Tensor], shape of tensor is [batch_size*time, c, hi, wi]
-        # init_reference: [batch_size*time, num_queries_per_frame, 2]
-        # inter_references: [l, batch_size*time, num_queries_per_frame, 4]
+
 
         out = {}
         # prediction
@@ -324,21 +279,15 @@ class ReferFormer(nn.Module):
         if isinstance(captions[0], str):
             tokenized = self.tokenizer.batch_encode_plus(captions, padding="longest", return_tensors="pt").to(device)
             encoded_text = self.text_encoder(**tokenized)
-            # encoded_text.last_hidden_state: [batch_size, length, 768]
-            # encoded_text.pooler_output: [batch_size, 768]
             text_attention_mask = tokenized.attention_mask.ne(1).bool()
-            # text_attention_mask: [batch_size, length]
 
             text_features = encoded_text.last_hidden_state
             text_features = self.resizer(text_features)
             text_masks = text_attention_mask
             text_features = NestedTensor(text_features, text_masks)  # NestedTensor
-
-            # text_sentence_features = encoded_text.pooler_output
-            # text_sentence_features = self.resizer(text_sentence_features)
         else:
             raise ValueError("Please mask sure the caption is a list of string")
-        return text_features  #, text_sentence_features
+        return text_features
 
 
 class MLP(nn.Module):
@@ -419,7 +368,7 @@ def build(args):
 
     transformer = build_deforamble_transformer(args)
 
-    model = ReferFormer(
+    model = LQVG(
         backbone,
         transformer,
         num_classes=num_classes,

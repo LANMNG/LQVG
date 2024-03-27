@@ -1,4 +1,4 @@
-from .referformer import build
+from .LQVG import build
 
 
 def build_model(args):
