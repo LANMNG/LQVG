@@ -100,8 +100,10 @@ class LQVG(nn.Module):
             self.bbox_embed = nn.ModuleList([self.bbox_embed for _ in range(num_pred)])
             self.transformer.decoder.bbox_embed = None
 
-        self.tokenizer = RobertaTokenizerFast.from_pretrained('./weights/tokenizer')
-        self.text_encoder = RobertaModel.from_pretrained('./weights/text_encoder')
+        # self.tokenizer = RobertaTokenizerFast.from_pretrained('./weights/tokenizer')
+        # self.text_encoder = RobertaModel.from_pretrained('./weights/text_encoder')
+        self.tokenizer = RobertaTokenizerFast.from_pretrained('roberta-base')
+        self.text_encoder = RobertaModel.from_pretrained('roberta-base')
 
         if freeze_text_encoder:
             for p in self.text_encoder.parameters():
