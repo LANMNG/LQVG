@@ -22,13 +22,8 @@ class MSDeformAttnFunction(Function):
     @staticmethod
     def forward(ctx, value, value_spatial_shapes, value_level_start_index, sampling_locations, attention_weights, im2col_step):
         ctx.im2col_step = im2col_step
-        # Check if we're on CPU and use PyTorch implementation
-        if value.is_cuda:
-            output = MSDA.ms_deform_attn_forward(
-                value, value_spatial_shapes, value_level_start_index, sampling_locations, attention_weights, ctx.im2col_step)
-        else:
-            # Use CPU implementation
-            output = ms_deform_attn_core_pytorch(value, value_spatial_shapes, sampling_locations, attention_weights)
+        output = MSDA.ms_deform_attn_forward(
+            value, value_spatial_shapes, value_level_start_index, sampling_locations, attention_weights, ctx.im2col_step)
         ctx.save_for_backward(value, value_spatial_shapes, value_level_start_index, sampling_locations, attention_weights)
         return output
 
@@ -36,15 +31,9 @@ class MSDeformAttnFunction(Function):
     @once_differentiable
     def backward(ctx, grad_output):
         value, value_spatial_shapes, value_level_start_index, sampling_locations, attention_weights = ctx.saved_tensors
-        if value.is_cuda:
-            grad_value, grad_sampling_loc, grad_attn_weight = \
-                MSDA.ms_deform_attn_backward(
-                    value, value_spatial_shapes, value_level_start_index, sampling_locations, attention_weights, grad_output, ctx.im2col_step)
-        else:
-            # For CPU, return None gradients (simplified for inference)
-            grad_value = torch.zeros_like(value)
-            grad_sampling_loc = torch.zeros_like(sampling_locations)
-            grad_attn_weight = torch.zeros_like(attention_weights)
+        grad_value, grad_sampling_loc, grad_attn_weight = \
+            MSDA.ms_deform_attn_backward(
+                value, value_spatial_shapes, value_level_start_index, sampling_locations, attention_weights, grad_output, ctx.im2col_step)
 
         return grad_value, None, None, grad_sampling_loc, grad_attn_weight, None
 

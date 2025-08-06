@@ -1,7 +1,6 @@
 setup.py
-/data/users/lanmeng/ReferFormer/models/ops/src/vision.cpp
-/data/users/lanmeng/ReferFormer/models/ops/src/cpu/ms_deform_attn_cpu.cpp
-/data/users/lanmeng/ReferFormer/models/ops/src/cuda/ms_deform_attn_cuda.cu
+C:/Users/jd138001/Downloads/LQVG/models/ops/src/vision.cpp
+C:/Users/jd138001/Downloads/LQVG/models/ops/src/cpu/ms_deform_attn_cpu.cpp
 MultiScaleDeformableAttention.egg-info/PKG-INFO
 MultiScaleDeformableAttention.egg-info/SOURCES.txt
 MultiScaleDeformableAttention.egg-info/dependency_links.txt
