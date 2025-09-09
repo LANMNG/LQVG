@@ -138,7 +138,7 @@ def build(image_set, args):
     ])
 
     img_folder = 'data/rsvg_mm/images'
-    dataset = RSVGDataset(img_folder, transform=input_transform, split=image_set, testmode=(image_set == 'test'))ssss
+    dataset = RSVGDataset(img_folder, transform=input_transform, split=image_set, testmode=(image_set == 'test'))
     return dataset
 
 # make_coco_transforms(image_set, False)
