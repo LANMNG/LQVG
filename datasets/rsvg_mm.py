@@ -126,13 +126,17 @@ def make_coco_transforms(image_set, cautious):
 from pathlib import Path
 
 
-def build(image_set, args):
-    root = Path(args.rsvg_mm_path)
-    assert root.exists(), f"provided rsvg_mm path {root} does not exist"
-    input_transform = T.Compose([T.ToTensor(), T.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])])
+def build(image_set, args):    
+    assert root.exists(), f'provided rsvg_mm path {root} does not exist'
+    input_transform = T.Compose([
+        T.ToTensor(),
+        T.Normalize(
+            mean=[0.485, 0.456, 0.406],
+            std=[0.229, 0.224, 0.225])
+    ])
 
-    img_folder = "data/images"  # Updated to correct path
-    dataset = RSVGDataset(img_folder, transform=input_transform, split=image_set, testmode=(image_set == "test"))
+    img_folder = 'data/rsvg_mm/images'
+    dataset = RSVGDataset(img_folder, transform=input_transform, split=image_set, testmode=(image_set == 'test'))
     return dataset
 
 
