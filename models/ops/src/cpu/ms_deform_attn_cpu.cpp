@@ -9,10 +9,9 @@
 */
 
 #include <vector>
-
 #include <ATen/ATen.h>
-#include <ATen/cuda/CUDAContext.h>
 
+// Removed <ATen/cuda/CUDAContext.h>
 
 at::Tensor
 ms_deform_attn_cpu_forward(
@@ -23,7 +22,7 @@ ms_deform_attn_cpu_forward(
     const at::Tensor &attn_weight,
     const int im2col_step)
 {
-    AT_ERROR("Not implement on cpu");
+    AT_ERROR("Not implemented on CPU");
 }
 
 std::vector<at::Tensor>
@@ -36,6 +35,5 @@ ms_deform_attn_cpu_backward(
     const at::Tensor &grad_output,
     const int im2col_step)
 {
-    AT_ERROR("Not implement on cpu");
+    AT_ERROR("Not implemented on CPU");
 }
-

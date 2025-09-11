@@ -1,0 +1,28 @@
+UASs_120.jpg,2671.0,1921.0,2814.0,2104.0,Compact square-like cluster with roughly symmetrical slightly irregular outline, weed: erigeron canadensis, middle-center of lentil crop field
+UASs_121.jpg,2195.0,2413.0,2568.0,2784.0,Moderately sized square-like cluster with irregular sprawling outline, weed: bassia scoparia, bottom-center of lentil crop field
+UASs_123.jpg,1656.0,683.0,2047.0,1052.0,Moderately sized square-like cluster with irregular sprawling outline, weed: bassia scoparia, top-left of lentil crop field
+UASs_124.jpg,2269.0,1248.0,2616.0,1695.0,Medium-sized square-like cluster with broadly irregular potentially sprawling outline, weed: ambrosia artemisiifolia, middle-center of lentil crop field
+UASs_137.jpg,663.0,3508.0,985.0,3643.0,Medium-sized square-like cluster with broadly irregular potentially sprawling outline, weed: ambrosia artemisiifolia, bottom-left of lentil crop field
+UASs_157.jpg,2665.0,13.0,2985.0,481.0,Medium-sized square-like cluster with broadly irregular potentially sprawling outline, weed: ambrosia artemisiifolia, top-center of lentil crop field
+UASs_159.jpg,2442.0,3.0,2545.0,132.0,Moderately sized square-like cluster with irregular sprawling outline, weed: bassia scoparia, top-center of lentil crop field
+UASs_180.jpg,498.0,3132.0,877.0,3366.0,Medium-sized square-like cluster with irregular somewhat elongated outline, weed: amaranthus tuberculatus, bottom-left of lentil crop field
+UASs_181.jpg,153.0,3197.0,413.0,3479.0,Moderately sized square-like cluster with irregular sprawling outline, weed: bassia scoparia, bottom-left of lentil crop field
+UASs_224.jpg,4683.0,528.0,4937.0,856.0,Medium-sized square-like cluster with broadly irregular potentially sprawling outline, weed: ambrosia artemisiifolia, top-right of lentil crop field
+UASs_236.jpg,1347.0,2371.0,1571.0,2615.0,Moderately sized square-like cluster with irregular sprawling outline, weed: bassia scoparia, bottom-left of lentil crop field
+UASs_237.jpg,396.0,2163.0,755.0,2512.0,Medium-sized square-like cluster with irregular somewhat elongated outline, weed: amaranthus tuberculatus, middle-left of lentil crop field
+UASs_288.jpg,576.0,2168.0,669.0,2284.0,Compact square-like cluster with roughly symmetrical slightly irregular outline, weed: erigeron canadensis, middle-left of lentil crop field
+UASs_316.jpg,539.0,3.0,740.0,279.0,Moderately sized square-like cluster with irregular sprawling outline, weed: bassia scoparia, top-left of lentil crop field
+UASs_328.jpg,1772.0,3136.0,2140.0,3537.0,Medium-sized square-like cluster with broadly irregular potentially sprawling outline, weed: ambrosia artemisiifolia, bottom-left of lentil crop field
+UASs_377.jpg,1438.0,1725.0,1641.0,1936.0,Medium-sized square-like cluster with irregular somewhat elongated outline, weed: amaranthus tuberculatus, middle-left of lentil crop field
+UASs_496.jpg,17.0,64.0,223.0,282.0,Moderately sized square-like cluster with irregular sprawling outline, weed: bassia scoparia, top-left of lentil crop field
+UASs_502.jpg,2349.0,1193.0,2516.0,1384.0,Compact square-like cluster with roughly symmetrical slightly irregular outline, weed: erigeron canadensis, middle-center of lentil crop field
+UASs_503.jpg,2767.0,524.0,3121.0,916.0,Medium-sized square-like cluster with broadly irregular potentially sprawling outline, weed: ambrosia artemisiifolia, top-center of lentil crop field
+UASs_504.jpg,2858.0,728.0,3325.0,1225.0,Medium-sized square-like cluster with irregular somewhat elongated outline, weed: amaranthus tuberculatus, top-center of lentil crop field
+UASs_505.jpg,2813.0,1574.0,3069.0,1894.0,Medium-sized square-like cluster with irregular somewhat elongated outline, weed: amaranthus tuberculatus, middle-center of lentil crop field
+UASs_506.jpg,1917.0,9.0,2100.0,162.0,Moderately sized square-like cluster with irregular sprawling outline, weed: bassia scoparia, top-center of lentil crop field
+UASs_507.jpg,2219.0,360.0,2389.0,570.0,Medium-sized square-like cluster with irregular somewhat elongated outline, weed: amaranthus tuberculatus, top-center of lentil crop field
+UASs_509.jpg,2428.0,7.0,2790.0,320.0,Moderately sized square-like cluster with irregular sprawling outline, weed: bassia scoparia, top-center of lentil crop field
+UASs_510.jpg,2221.0,1071.0,2372.0,1229.0,Compact square-like cluster with roughly symmetrical slightly irregular outline, weed: erigeron canadensis, top-center of lentil crop field
+UASs_660.jpg,1679.0,668.0,2066.0,1052.0,Moderately sized square-like cluster with irregular sprawling outline, weed: bassia scoparia, top-left of lentil crop field
+UASs_661.jpg,1927.0,2768.0,2368.0,3189.0,Medium-sized square-like cluster with irregular somewhat elongated outline, weed: amaranthus tuberculatus, bottom-center of lentil crop field
+UASs_93.jpg,166.0,2184.0,417.0,2396.0,Medium-sized square-like cluster with broadly irregular potentially sprawling outline, weed: ambrosia artemisiifolia, middle-left of lentil crop field

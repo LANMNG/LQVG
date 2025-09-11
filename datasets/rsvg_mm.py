@@ -9,6 +9,7 @@ import cv2
 from PIL import Image
 import util
 from util.transforms import letterbox
+
 # from torchvision.transforms import Compose, ToTensor, Normalize
 import datasets.transforms_image as T
 import matplotlib.pyplot as plt
@@ -18,8 +19,7 @@ import torch
 
 
 class RSVGDataset(data.Dataset):
-    def __init__(self, images_path, imsize=1024, transform= None, augment= False,
-                 split='train', testmode=False):
+    def __init__(self, images_path, imsize=1024, transform=None, augment=False, split="train", testmode=False):
         self.images = []
         self.images_path = images_path
         self.imsize = imsize
@@ -30,14 +30,20 @@ class RSVGDataset(data.Dataset):
 
         # file = open('data/rsvg_mm/' + 'rsvg_mm_train_v11.txt', "r").readlines()
         # file = open('data/rsvg_mm/' + 'rsvg_mm_' + split + '.txt', "r").readlines()
-        file = open('data/rsvg_mm/' + 'rsvg_mm_' + split + '_v2.txt', "r").readlines()
-        Index = [index.strip('\n') for index in file]
+        file = open("RSVG-HR/Annotations/rsvg_hr_test_10.txt", "r").readlines()
+        # file = open("data/rsvg_mm/" + "rsvg_mm_" + split + "_v2.txt", "r").readlines()
+        Index = [index.strip("\n") for index in file]
         for anno in Index:
-            anno_list = anno.split(',')
+            anno_list = anno.split(",")
             img_name = anno_list[0]
-            xmin_gt, ymin_gt, xmax_gt, ymax_gt = float(anno_list[1]), float(anno_list[2]), float(anno_list[3]), float(anno_list[4])
+            xmin_gt, ymin_gt, xmax_gt, ymax_gt = (
+                float(anno_list[1]),
+                float(anno_list[2]),
+                float(anno_list[3]),
+                float(anno_list[4]),
+            )
             text = anno_list[-1]
-            image_path = images_path + '/' + img_name
+            image_path = images_path + "/" + img_name
             box = np.array([xmin_gt, ymin_gt, xmax_gt, ymax_gt], dtype=np.float32)
             self.images.append((image_path, box, text))
 
@@ -47,7 +53,7 @@ class RSVGDataset(data.Dataset):
         # bbox = np.array(bbox, dtype=int)  # box format: to x1 y1 x2 y2
         # img_bgr = cv2.imread(img_path)
         # img = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2RGB)
-        img = Image.open(img_path).convert('RGB')
+        img = Image.open(img_path).convert("RGB")
         # img = np.array(img)
 
         return img, phrase, bbox, img_path
@@ -56,7 +62,7 @@ class RSVGDataset(data.Dataset):
         return len(self.images)
 
     def __getitem__(self, idx):
-        img, phrase, bbox, img_path  = self.pull_item(idx)
+        img, phrase, bbox, img_path = self.pull_item(idx)
         # print(img_path)
         # phrase = phrase.lower()
         caption = " ".join(phrase.lower().split())
@@ -98,8 +104,8 @@ class RSVGDataset(data.Dataset):
             return img.unsqueeze(0), target
         # return img: [1, 3, H, W], the first dimension means T = 1.
 
-def make_coco_transforms(image_set, cautious):
 
+def make_coco_transforms(image_set, cautious):
     normalize = T.Compose([T.ToTensor(), T.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])])
 
     # scales = [480, 560, 640, 720, 800]
@@ -109,26 +115,18 @@ def make_coco_transforms(image_set, cautious):
 
     max_size = 1024
     if image_set == "train":
-        return T.Compose(
-            [T.RandomResize(scales, max_size=max_size),
-            normalize]
-        )
+        return T.Compose([T.RandomResize(scales, max_size=max_size), normalize])
 
     else:
-        return T.Compose([
-        T.ToTensor(),
-        T.Normalize(
-            mean=[0.485, 0.456, 0.406],
-            std=[0.229, 0.224, 0.225])
-    ])
-
+        return T.Compose([T.ToTensor(), T.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])])
 
     raise ValueError(f"unknown {image_set}")
 
+
 from pathlib import Path
 
-def build(image_set, args):
-    root = Path(args.rsvg_mm_path)
+
+def build(image_set, args):    
     assert root.exists(), f'provided rsvg_mm path {root} does not exist'
     input_transform = T.Compose([
         T.ToTensor(),
@@ -141,17 +139,13 @@ def build(image_set, args):
     dataset = RSVGDataset(img_folder, transform=input_transform, split=image_set, testmode=(image_set == 'test'))
     return dataset
 
+
 # make_coco_transforms(image_set, False)
-if __name__ == '__main__':
-    input_transform = T.Compose([
-        T.ToTensor(),
-        T.Normalize(
-            mean=[0.485, 0.456, 0.406],
-            std=[0.229, 0.224, 0.225])
-    ])
-    img_folder = '../data/rsvg_mm/images'
-    image_set = 'train'
-    dataset = RSVGDataset(img_folder, transform=input_transform, split=image_set, testmode=(image_set=='test'))
+if __name__ == "__main__":
+    input_transform = T.Compose([T.ToTensor(), T.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])])
+    img_folder = "../data/rsvg_mm/images"
+    image_set = "train"
+    dataset = RSVGDataset(img_folder, transform=input_transform, split=image_set, testmode=(image_set == "test"))
     sample_num = dataset.__len__()
     sample_num = dataset.__getitem__(0)
     print(sample_num)
