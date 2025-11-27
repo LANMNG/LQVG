@@ -27,7 +27,7 @@ Visual grounding for remote sensing images (RSVG) aims to localize the referred 
 
 ## Installation
 
-Please refer to [install.md](docs/install.md) for installation. Or you can download our conda environment from [Here](https://drive.google.com/file/d/1AEc0ZSdsrwmVs-z3obYDK8x4QLvyKiPD/view?usp=drive_link) and put it in anaconda/envs/ or miniconda/envs/ . Then unzip the environment package and activate the environment.
+Please refer to [install.md](docs/install.md) for installation. Or you can download our conda environment from [Here](https://huggingface.co/Menglan9528/LQVG/resolve/main/rsvg.tar.gz) and put it in anaconda/envs/ or miniconda/envs/ . Then unzip the environment package and activate the environment.
 
 ## Data Preparation
 
